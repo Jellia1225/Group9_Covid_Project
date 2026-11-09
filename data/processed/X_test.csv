@@ -1,0 +1,1287 @@
+age,gender,region,employment_status,household_size,number_of_children,perceived_covid_severity,perceived_infection_risk,mask_wearing_frequency,handwashing_frequency,hand_sanitizer_frequency,avoiding_infected_people,government_covid_response,healthcare_system_confidence
+74,Male,Ontario,Unemployed,4.0,4.0,7,7,5,5.0,3,5,Very well,A lot of confidence
+58,Female,Nova Scotia / Nouvelle-Écosse,Unemployed,2.0,1.0,6,2,5,5.0,5,5,Somewhat badly,Not very much confidence
+29,Female,New Brunswick / Nouveau-Brunswick,Part time employment,3.0,1.0,3,1,5,5.0,5,5,Don't know,Don't know
+66,Male,Ontario,Retired,2.0,2.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+36,Female,Ontario,Full time employment,4.0,2.0,3,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+23,Male,Alberta,Full time employment,1.0,0.0,5,5,5,5.0,5,5,Somewhat badly,Not very much confidence
+56,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,5,6,5,5.0,4,5,Somewhat well,A fair amount of confidence
+63,Female,British Columbia / Colombie Britanique,Full time employment,4.0,4.0,5,4,5,5.0,4,4,Very well,A lot of confidence
+74,Male,Quebec / Québec,Retired,2.0,0.0,7,6,5,4.0,4,5,Somewhat well,A lot of confidence
+68,Male,Manitoba,Retired,3.0,1.0,1,1,3,5.0,1,1,Very badly,No confidence at all
+23,Male,Ontario,Not working,4.0,3.0,4,4,3,4.0,3,3,Somewhat well,A fair amount of confidence
+49,Male,Ontario,Full time employment,1.0,0.0,6,5,5,5.0,3,4,Somewhat badly,Not very much confidence
+50,Female,British Columbia / Colombie Britanique,Not working,1.0,0.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+64,Female,Ontario,Full time employment,3.0,0.0,3,4,5,4.0,1,5,Very badly,No confidence at all
+33,Male,Ontario,Full time student,3.0,3.0,2,5,3,3.0,2,4,Somewhat badly,A fair amount of confidence
+39,Male,Quebec / Québec,Part time employment,3.0,1.0,4,5,5,5.0,5,4,Somewhat well,A fair amount of confidence
+65,Female,Quebec / Québec,Retired,2.0,0.0,5,3,5,5.0,5,5,Very well,A lot of confidence
+72,Female,Ontario,Retired,2.0,0.0,4,4,5,5.0,5,5,Somewhat well,A lot of confidence
+37,Male,British Columbia / Colombie Britanique,Unemployed,,5.0,4,4,1,,1,1,Don't know,Don't know
+73,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,6,6,5,4.0,4,4,Somewhat well,A fair amount of confidence
+72,Female,Quebec / Québec,Retired,5.0,2.0,6,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+76,Male,Ontario,Retired,2.0,0.0,7,6,3,4.0,3,5,Somewhat badly,A fair amount of confidence
+55,Female,Ontario,Full time employment,1.0,0.0,3,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+56,Male,Ontario,Part time employment,2.0,0.0,2,5,2,,4,1,Very badly,Not very much confidence
+48,Male,Quebec / Québec,Full time employment,5.0,1.0,5,4,5,5.0,5,4,Somewhat badly,Not very much confidence
+64,Male,Quebec / Québec,Retired,2.0,0.0,5,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+53,Male,Ontario,Full time employment,4.0,0.0,4,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+48,Female,Ontario,Full time employment,6.0,1.0,5,4,5,4.0,3,4,Somewhat well,A fair amount of confidence
+68,Male,Quebec / Québec,Retired,1.0,0.0,6,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+30,Male,Quebec / Québec,Unemployed,4.0,0.0,2,6,1,,4,1,Very badly,No confidence at all
+28,Male,Nova Scotia / Nouvelle-Écosse,Part time employment,5.0,2.0,5,4,5,5.0,5,5,Don't know,A fair amount of confidence
+22,Female,Quebec / Québec,Full time employment,3.0,0.0,3,4,4,3.0,4,2,Somewhat badly,Not very much confidence
+40,Male,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,5,4,2,5.0,4,4,Somewhat badly,No confidence at all
+53,Female,Quebec / Québec,Full time employment,4.0,0.0,4,6,5,5.0,5,5,Very well,A lot of confidence
+46,Female,British Columbia / Colombie Britanique,Full time employment,4.0,0.0,5,3,1,,3,1,Somewhat badly,Not very much confidence
+30,Male,Ontario,Full time employment,2.0,2.0,5,5,5,4.0,5,5,Somewhat well,Not very much confidence
+64,Female,Quebec / Québec,Retired,2.0,0.0,6,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+52,Female,New Brunswick / Nouveau-Brunswick,Not working,2.0,0.0,6,3,5,4.0,5,5,Somewhat well,A fair amount of confidence
+57,Female,Quebec / Québec,Retired,2.0,0.0,3,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+79,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,5,4,5,4.0,4,4,Somewhat badly,Not very much confidence
+39,Female,Ontario,Part time employment,7.0,0.0,7,1,5,5.0,5,5,Somewhat well,A lot of confidence
+62,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Retired,3.0,0.0,6,6,5,4.0,4,3,Somewhat well,A fair amount of confidence
+33,Male,Ontario,Unemployed,2.0,0.0,7,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+48,Female,Alberta,Other,1.0,0.0,7,4,5,5.0,4,5,Somewhat badly,Not very much confidence
+39,Male,Ontario,Full time employment,2.0,0.0,5,4,5,5.0,5,5,Very badly,No confidence at all
+40,Female,Prince Edward Island / Île-du-Prince-Édouard,Full time employment,5.0,3.0,4,7,5,5.0,4,4,Somewhat well,A fair amount of confidence
+57,Male,Ontario,Full time employment,1.0,0.0,5,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+63,Female,Quebec / Québec,Retired,2.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+39,Male,British Columbia / Colombie Britanique,Full time employment,1.0,1.0,5,6,5,4.0,3,3,Very badly,Not very much confidence
+42,Female,Ontario,Full time employment,2.0,0.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+52,Male,Ontario,Not working,2.0,0.0,2,2,1,4.0,3,5,Very badly,Not very much confidence
+27,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,1,7,4,5.0,1,1,Very badly,No confidence at all
+49,Female,Ontario,Full time employment,4.0,2.0,4,4,5,5.0,5,5,Very badly,Not very much confidence
+56,Male,Ontario,Retired,1.0,0.0,1,3,4,4.0,2,1,Very badly,Not very much confidence
+63,Male,British Columbia / Colombie Britanique,Retired,2.0,2.0,4,2,1,5.0,4,5,Somewhat well,A fair amount of confidence
+60,Female,Quebec / Québec,Retired,1.0,0.0,7,2,5,5.0,5,5,Somewhat well,A lot of confidence
+29,Male,Ontario,Full time employment,2.0,0.0,3,4,5,5.0,2,5,Somewhat badly,Not very much confidence
+56,Male,Quebec / Québec,Retired,2.0,0.0,1,1,1,5.0,1,1,Very badly,No confidence at all
+64,Male,Quebec / Québec,Full time employment,2.0,2.0,6,6,5,5.0,5,5,Very well,A fair amount of confidence
+51,Female,Saskatchewan,Full time employment,4.0,2.0,6,6,5,5.0,5,1,Somewhat badly,Not very much confidence
+37,Male,Ontario,Other,3.0,1.0,1,7,1,5.0,1,1,Very badly,No confidence at all
+37,Male,Ontario,Full time employment,2.0,0.0,5,5,1,5.0,5,5,Very badly,Not very much confidence
+69,Male,Quebec / Québec,Retired,1.0,0.0,6,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+47,Male,Alberta,Full time employment,4.0,1.0,1,6,5,4.0,4,5,Very badly,No confidence at all
+60,Female,Manitoba,Unemployed,2.0,0.0,4,4,5,,5,3,Somewhat well,Not very much confidence
+57,Female,Quebec / Québec,Part time employment,2.0,0.0,3,1,5,4.0,5,5,Somewhat well,Not very much confidence
+53,Female,Ontario,Part time employment,1.0,0.0,1,1,5,5.0,5,5,Somewhat badly,Not very much confidence
+56,Male,Quebec / Québec,Part time employment,1.0,0.0,3,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+35,Female,Ontario,Full time employment,3.0,0.0,5,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+40,Male,Alberta,Full time employment,3.0,1.0,2,6,4,4.0,4,5,Very badly,No confidence at all
+45,Male,Quebec / Québec,Full time employment,1.0,0.0,2,3,5,,5,5,Somewhat badly,No confidence at all
+33,Female,Nova Scotia / Nouvelle-Écosse,Part time employment,5.0,3.0,6,5,5,5.0,4,5,Somewhat badly,Don't know
+44,Female,New Brunswick / Nouveau-Brunswick,Not working,4.0,1.0,5,2,5,5.0,5,5,Somewhat badly,Not very much confidence
+37,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,,0.0,4,4,3,3.0,3,3,Somewhat well,Don't know
+32,Female,British Columbia / Colombie Britanique,Not working,3.0,0.0,1,1,5,5.0,5,5,Somewhat badly,Don't know
+36,Male,Ontario,Full time employment,2.0,0.0,5,4,1,5.0,4,5,Somewhat well,A fair amount of confidence
+30,Female,Ontario,Full time student,2.0,0.0,4,2,5,,5,5,Very badly,Not very much confidence
+44,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,3.0,1.0,4,4,5,,4,5,Somewhat well,A fair amount of confidence
+70,Female,Manitoba,Retired,2.0,0.0,6,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+68,Female,Ontario,Retired,1.0,0.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+48,Male,New Brunswick / Nouveau-Brunswick,Not working,2.0,1.0,7,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+30,Female,Quebec / Québec,Full time employment,3.0,0.0,5,5,5,4.0,5,5,Somewhat badly,Not very much confidence
+58,Female,Quebec / Québec,Full time employment,2.0,0.0,1,1,1,5.0,5,5,Somewhat badly,Not very much confidence
+68,Female,Ontario,Full time employment,1.0,0.0,7,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+81,Female,Yukon,Retired,1.0,0.0,7,7,1,5.0,5,1,Somewhat well,A fair amount of confidence
+42,Female,Ontario,Full time employment,,,4,4,5,,5,5,Somewhat badly,Don't know
+70,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,2,5,,5,5,Somewhat badly,A fair amount of confidence
+77,Male,Quebec / Québec,Retired,2.0,0.0,6,4,5,4.0,5,5,Somewhat badly,Not very much confidence
+70,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,7,1,1,5.0,2,5,Somewhat well,A fair amount of confidence
+67,Female,Alberta,Retired,1.0,0.0,6,5,5,5.0,4,5,Don't know,A fair amount of confidence
+65,Male,New Brunswick / Nouveau-Brunswick,Retired,2.0,0.0,4,5,5,5.0,5,5,Very well,A lot of confidence
+56,Female,British Columbia / Colombie Britanique,Retired,3.0,0.0,2,2,5,5.0,5,3,Somewhat well,A fair amount of confidence
+44,Female,Ontario,Full time employment,4.0,2.0,7,1,5,5.0,5,5,Don't know,Not very much confidence
+74,Male,Ontario,Full time employment,2.0,0.0,3,2,5,4.0,4,5,Very badly,Not very much confidence
+61,Female,Prince Edward Island / Île-du-Prince-Édouard,Not working,3.0,1.0,7,2,5,5.0,5,5,Somewhat badly,Not very much confidence
+51,Female,Prince Edward Island / Île-du-Prince-Édouard,Full time employment,3.0,1.0,5,7,5,5.0,4,5,Somewhat well,A fair amount of confidence
+75,Male,Ontario,Part time employment,2.0,0.0,3,2,5,4.0,3,5,Somewhat well,A fair amount of confidence
+46,Female,Quebec / Québec,Not working,7.0,5.0,5,1,5,,5,5,Very badly,No confidence at all
+75,Female,Ontario,Retired,8.0,3.0,5,1,5,5.0,4,1,Somewhat well,A fair amount of confidence
+26,Female,Quebec / Québec,Full time employment,1.0,0.0,2,3,4,5.0,5,5,Somewhat badly,Not very much confidence
+28,Female,Ontario,Part time employment,2.0,0.0,3,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+48,Female,Ontario,Other,,0.0,3,3,5,5.0,4,5,Don't know,Don't know
+64,Female,Quebec / Québec,Retired,2.0,0.0,5,2,5,5.0,5,5,Somewhat well,A lot of confidence
+48,Male,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,6,4,5,5.0,4,5,Somewhat badly,A fair amount of confidence
+35,Male,British Columbia / Colombie Britanique,Not working,3.0,1.0,4,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+31,Female,Saskatchewan,Not working,6.0,3.0,1,1,5,5.0,5,5,Somewhat well,Not very much confidence
+42,Female,Alberta,Full time employment,4.0,2.0,3,2,5,,5,5,Don't know,Don't know
+77,Female,Ontario,Full time employment,1.0,0.0,5,5,5,5.0,5,4,Somewhat well,A fair amount of confidence
+40,Female,Ontario,Not working,4.0,2.0,4,5,5,5.0,3,5,Somewhat well,A lot of confidence
+54,Female,Saskatchewan,Not working,1.0,0.0,3,3,5,5.0,3,5,Somewhat well,A lot of confidence
+25,Female,Alberta,Not working,2.0,0.0,5,6,5,5.0,3,5,Somewhat badly,Not very much confidence
+27,Male,Ontario,Not working,1.0,1.0,1,1,5,5.0,5,5,Don't know,No confidence at all
+79,Male,Quebec / Québec,Retired,2.0,0.0,2,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+66,Male,Alberta,Retired,1.0,0.0,6,7,5,5.0,4,5,Don't know,A fair amount of confidence
+26,Female,Alberta,Unemployed,3.0,3.0,3,4,4,5.0,3,3,Don't know,Not very much confidence
+65,Female,Ontario,Retired,2.0,0.0,6,5,5,5.0,4,5,Somewhat badly,A fair amount of confidence
+23,Female,Ontario,Full time student,2.0,0.0,6,6,3,5.0,5,4,Very badly,Not very much confidence
+56,Female,Quebec / Québec,Part time employment,1.0,0.0,5,6,5,5.0,4,5,Very badly,Not very much confidence
+50,Female,Alberta,Not working,5.0,2.0,7,7,5,5.0,5,5,Somewhat well,Not very much confidence
+30,Female,Alberta,Full time employment,2.0,1.0,1,1,4,5.0,3,5,Very badly,No confidence at all
+75,Male,Quebec / Québec,Retired,2.0,0.0,3,3,5,4.0,5,5,Somewhat well,A fair amount of confidence
+66,Male,Ontario,Retired,3.0,0.0,7,1,5,5.0,5,5,Somewhat well,A lot of confidence
+49,Male,Ontario,Retired,5.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+47,Male,Ontario,Full time employment,5.0,3.0,4,4,5,5.0,5,5,Somewhat well,A lot of confidence
+80,Female,Quebec / Québec,Retired,1.0,0.0,7,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+81,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Retired,2.0,0.0,5,3,5,,5,3,Somewhat well,A fair amount of confidence
+69,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,2,3,4,4.0,3,5,Very well,A fair amount of confidence
+75,Male,Ontario,Retired,2.0,0.0,7,1,5,4.0,4,5,Very well,A lot of confidence
+62,Male,Quebec / Québec,Unemployed,1.0,0.0,1,1,1,5.0,5,5,Very well,A lot of confidence
+67,Female,Quebec / Québec,Retired,1.0,0.0,3,2,5,5.0,5,5,Very well,A lot of confidence
+78,Female,Ontario,Not working,1.0,0.0,7,1,5,,3,1,Somewhat well,Don't know
+21,Female,British Columbia / Colombie Britanique,Full time employment,5.0,2.0,1,1,4,5.0,5,5,Don't know,Don't know
+62,Male,Ontario,Retired,1.0,0.0,5,5,2,,2,1,Very badly,No confidence at all
+40,Male,Ontario,Full time employment,4.0,2.0,7,7,5,5.0,5,1,Very badly,No confidence at all
+27,Male,Ontario,Full time student,2.0,0.0,6,6,4,4.0,4,4,Somewhat badly,Not very much confidence
+33,Female,Alberta,Unemployed,4.0,0.0,3,2,5,5.0,4,5,Somewhat well,A fair amount of confidence
+34,Female,Ontario,Other,,0.0,1,4,3,,3,3,Don't know,Don't know
+55,Female,Ontario,Part time employment,4.0,1.0,6,3,5,5.0,5,4,Somewhat well,A fair amount of confidence
+65,Female,Ontario,Retired,1.0,0.0,1,1,1,5.0,1,5,Very badly,No confidence at all
+70,Female,Nova Scotia / Nouvelle-Écosse,Retired,2.0,0.0,1,1,5,5.0,5,5,Very well,A lot of confidence
+80,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,4,5,5,4.0,4,5,Somewhat well,A fair amount of confidence
+41,Female,Alberta,Part time employment,4.0,1.0,4,4,5,4.0,4,4,Somewhat badly,Not very much confidence
+57,Female,Quebec / Québec,Full time employment,2.0,0.0,5,7,5,5.0,5,5,Very well,A fair amount of confidence
+63,Male,Quebec / Québec,Retired,2.0,0.0,2,2,5,5.0,4,2,Somewhat badly,Not very much confidence
+38,Male,Ontario,Full time employment,4.0,2.0,6,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+60,Female,Quebec / Québec,Retired,2.0,0.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+24,Male,Alberta,Full time student,2.0,0.0,7,1,5,5.0,5,5,Very well,A lot of confidence
+22,Male,Saskatchewan,Full time student,3.0,0.0,4,4,5,,5,1,Somewhat badly,Not very much confidence
+64,Female,British Columbia / Colombie Britanique,Not working,1.0,0.0,5,5,5,5.0,1,5,Somewhat well,A fair amount of confidence
+27,Male,Manitoba,Full time employment,1.0,0.0,1,7,3,5.0,1,4,Very badly,No confidence at all
+21,Female,Quebec / Québec,Part time employment,2.0,0.0,1,2,5,4.0,4,4,Very badly,Not very much confidence
+70,Female,Nova Scotia / Nouvelle-Écosse,Retired,1.0,0.0,7,2,5,,5,5,Somewhat well,Not very much confidence
+26,Male,Alberta,Full time student,2.0,0.0,2,5,5,5.0,4,4,Somewhat well,Not very much confidence
+36,Female,Quebec / Québec,Unemployed,1.0,0.0,4,4,5,,5,5,Somewhat well,A lot of confidence
+64,Male,Ontario,Retired,4.0,0.0,2,2,5,5.0,5,4,Very badly,Not very much confidence
+70,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+53,Female,Quebec / Québec,Full time employment,4.0,0.0,2,5,5,4.0,4,4,Somewhat well,A fair amount of confidence
+70,Female,Ontario,Retired,2.0,1.0,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+50,Male,Manitoba,Full time employment,1.0,0.0,4,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+53,Female,Ontario,Full time employment,3.0,1.0,5,5,5,4.0,3,5,Somewhat well,A fair amount of confidence
+57,Male,Quebec / Québec,Full time employment,2.0,0.0,4,4,5,5.0,4,5,Somewhat well,Not very much confidence
+30,Male,Ontario,Full time employment,2.0,0.0,4,3,1,,4,5,Somewhat well,A lot of confidence
+73,Male,Quebec / Québec,Retired,2.0,0.0,5,2,5,5.0,5,5,Somewhat well,A lot of confidence
+31,Male,Quebec / Québec,Full time employment,8.0,2.0,7,6,5,,4,5,Very well,A lot of confidence
+64,Male,Quebec / Québec,Retired,2.0,0.0,4,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+48,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,5.0,4.0,1,1,5,5.0,5,5,Somewhat well,Not very much confidence
+64,Female,Quebec / Québec,Retired,1.0,0.0,2,2,5,5.0,5,5,Very badly,Not very much confidence
+20,Female,Alberta,Part time employment,,,3,3,5,4.0,4,5,Somewhat badly,Not very much confidence
+51,Female,Manitoba,Full time employment,4.0,0.0,5,6,5,5.0,5,5,Somewhat badly,Not very much confidence
+51,Female,Quebec / Québec,Full time employment,5.0,1.0,1,4,5,5.0,5,5,Very badly,Not very much confidence
+60,Male,Quebec / Québec,Retired,2.0,0.0,2,2,1,4.0,4,5,Somewhat well,A fair amount of confidence
+24,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,3,4,4,,4,3,Somewhat well,A fair amount of confidence
+48,Male,Quebec / Québec,Part time employment,2.0,0.0,5,5,5,5.0,5,5,Somewhat well,A lot of confidence
+32,Female,Quebec / Québec,Full time employment,,,7,4,4,5.0,5,5,Very badly,Not very much confidence
+72,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,3,5,4.0,5,5,Somewhat badly,Not very much confidence
+46,Male,Saskatchewan,Full time employment,2.0,0.0,4,3,5,4.0,2,5,Somewhat well,Not very much confidence
+49,Male,Ontario,Other,,,5,4,5,4.0,4,5,Very badly,Not very much confidence
+60,Female,Ontario,Not working,1.0,0.0,7,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+49,Female,Ontario,Other,3.0,1.0,7,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+19,Female,Ontario,Full time student,4.0,1.0,5,4,5,5.0,5,5,Don't know,Not very much confidence
+68,Female,Ontario,Retired,1.0,0.0,7,6,5,5.0,5,5,Very well,A lot of confidence
+25,Female,Quebec / Québec,Not working,3.0,1.0,1,5,1,5.0,3,2,Very badly,No confidence at all
+73,Female,Quebec / Québec,Retired,1.0,0.0,6,2,5,4.0,4,3,Somewhat well,A fair amount of confidence
+53,Male,Ontario,Unemployed,2.0,0.0,3,1,5,3.0,3,5,Somewhat well,Not very much confidence
+54,Male,Ontario,Full time employment,4.0,1.0,6,7,5,4.0,4,5,Somewhat well,A fair amount of confidence
+19,Female,Ontario,Full time student,7.0,5.0,7,4,5,5.0,5,2,Very badly,No confidence at all
+47,Female,Quebec / Québec,Full time employment,2.0,2.0,1,2,5,5.0,5,5,Very badly,Not very much confidence
+45,Male,Ontario,Full time employment,5.0,1.0,7,1,5,5.0,2,4,Don't know,Don't know
+71,Male,Ontario,Retired,2.0,2.0,7,4,5,4.0,4,5,Very well,A lot of confidence
+65,Male,Ontario,Retired,1.0,0.0,7,7,2,,1,5,Very badly,No confidence at all
+30,Female,Quebec / Québec,Full time employment,3.0,0.0,4,4,5,5.0,4,3,Somewhat well,A fair amount of confidence
+36,Female,Ontario,Part time employment,4.0,2.0,3,5,5,,5,5,Somewhat well,A fair amount of confidence
+76,Male,Ontario,Not working,2.0,0.0,7,2,5,,5,5,Somewhat well,Not very much confidence
+27,Female,Alberta,Full time employment,5.0,2.0,2,3,4,5.0,5,3,Somewhat well,A fair amount of confidence
+70,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,3,6,4,5.0,3,5,Somewhat well,A fair amount of confidence
+58,Male,Quebec / Québec,Full time employment,1.0,0.0,7,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+49,Female,Quebec / Québec,Full time student,2.0,0.0,3,4,5,2.0,5,5,Somewhat badly,A fair amount of confidence
+75,Female,Ontario,Retired,1.0,0.0,7,6,5,5.0,5,4,Very well,A lot of confidence
+52,Male,Quebec / Québec,Full time employment,4.0,2.0,1,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+62,Female,Ontario,Retired,2.0,0.0,6,7,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+71,Male,Ontario,Retired,2.0,0.0,7,4,5,4.0,4,5,Very well,A lot of confidence
+51,Female,Alberta,Full time employment,2.0,0.0,2,2,1,,3,4,Somewhat badly,Not very much confidence
+67,Female,Ontario,Part time employment,2.0,0.0,4,4,5,5.0,2,1,Very badly,Not very much confidence
+43,Female,Quebec / Québec,Full time employment,3.0,0.0,5,4,5,5.0,5,4,Somewhat well,A fair amount of confidence
+32,Male,British Columbia / Colombie Britanique,Full time employment,4.0,2.0,1,6,1,,3,4,Very badly,No confidence at all
+38,Male,Quebec / Québec,Full time employment,3.0,1.0,5,5,5,4.0,4,4,Somewhat well,A fair amount of confidence
+79,Male,Quebec / Québec,Retired,1.0,0.0,6,5,5,,5,5,Very well,A fair amount of confidence
+78,Male,Quebec / Québec,Retired,2.0,0.0,4,3,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+41,Male,Ontario,Full time employment,3.0,1.0,4,4,1,3.0,3,2,Very badly,Not very much confidence
+18,Male,Ontario,Full time employment,5.0,0.0,3,3,4,,5,4,Somewhat well,A fair amount of confidence
+70,Female,British Columbia / Colombie Britanique,Part time employment,4.0,2.0,3,5,5,4.0,5,5,Somewhat badly,Not very much confidence
+24,Female,Alberta,Full time student,2.0,0.0,3,2,5,5.0,3,5,Somewhat badly,Not very much confidence
+66,Female,Saskatchewan,Retired,1.0,1.0,5,5,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+74,Male,Ontario,Full time employment,2.0,0.0,3,4,5,4.0,4,5,Very badly,A fair amount of confidence
+58,Female,Ontario,Part time employment,2.0,0.0,4,6,5,4.0,4,5,Very badly,Not very much confidence
+64,Male,Ontario,Retired,2.0,0.0,5,5,5,5.0,5,5,Very badly,Not very much confidence
+58,Male,Quebec / Québec,Full time employment,1.0,0.0,4,1,5,5.0,5,5,Very badly,No confidence at all
+27,Female,Ontario,Full time employment,,0.0,6,4,5,5.0,5,5,Don't know,Don't know
+70,Male,Ontario,Retired,1.0,0.0,1,1,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+54,Female,Quebec / Québec,Unemployed,5.0,5.0,3,1,5,5.0,5,4,Somewhat well,A fair amount of confidence
+36,Male,Ontario,Full time student,,0.0,4,4,3,3.0,3,3,Don't know,Don't know
+77,Female,Alberta,Retired,2.0,0.0,3,4,5,5.0,5,5,Very well,A lot of confidence
+72,Female,Alberta,Retired,2.0,0.0,7,4,5,,5,5,Somewhat well,A lot of confidence
+79,Male,Saskatchewan,Retired,1.0,0.0,6,3,4,5.0,5,4,Somewhat badly,A fair amount of confidence
+46,Female,Ontario,Not working,3.0,1.0,7,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+45,Female,Ontario,Full time employment,4.0,4.0,1,4,5,5.0,5,5,Somewhat well,Don't know
+33,Female,Ontario,Part time employment,4.0,4.0,1,4,4,5.0,2,3,Very badly,No confidence at all
+72,Female,Quebec / Québec,Retired,1.0,0.0,5,5,4,4.0,5,5,Very badly,Not very much confidence
+51,Female,Quebec / Québec,Full time employment,6.0,1.0,5,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+39,Female,Quebec / Québec,Part time employment,3.0,4.0,5,5,3,4.0,3,4,Somewhat badly,Not very much confidence
+66,Female,New Brunswick / Nouveau-Brunswick,Not working,1.0,0.0,2,1,4,5.0,5,5,Very badly,No confidence at all
+65,Female,Alberta,Retired,1.0,0.0,4,4,4,5.0,1,5,Very badly,Not very much confidence
+53,Female,Ontario,Not working,1.0,1.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+57,Female,Ontario,Part time employment,2.0,0.0,3,7,5,4.0,3,4,Somewhat well,A fair amount of confidence
+53,Male,Ontario,Full time employment,2.0,0.0,1,1,2,,3,3,Very badly,No confidence at all
+53,Female,New Brunswick / Nouveau-Brunswick,Full time employment,4.0,3.0,7,7,5,,5,5,Somewhat badly,A fair amount of confidence
+68,Female,Quebec / Québec,Retired,2.0,0.0,5,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+41,Male,Ontario,Full time employment,3.0,1.0,2,6,5,4.0,4,5,Somewhat badly,Not very much confidence
+75,Female,Alberta,Retired,2.0,0.0,7,3,5,5.0,5,5,Very badly,Not very much confidence
+52,Female,Saskatchewan,Not working,2.0,0.0,5,4,5,5.0,4,3,Very badly,Not very much confidence
+25,Female,Ontario,Full time employment,6.0,2.0,1,3,5,5.0,5,5,Very well,A lot of confidence
+36,Female,Alberta,Not working,3.0,1.0,3,3,1,5.0,5,5,Somewhat badly,Not very much confidence
+69,Male,Quebec / Québec,Retired,2.0,0.0,7,1,5,5.0,5,5,Very well,A lot of confidence
+26,Female,Ontario,Full time employment,2.0,0.0,3,3,5,5.0,5,5,Very badly,Not very much confidence
+32,Female,Quebec / Québec,Full time employment,1.0,0.0,6,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+66,Female,Manitoba,Part time employment,1.0,0.0,4,1,5,5.0,5,5,Very well,A lot of confidence
+65,Female,Alberta,Retired,1.0,0.0,5,3,5,5.0,2,5,Very badly,Not very much confidence
+33,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,2.0,0.0,5,3,5,4.0,5,5,Somewhat well,A fair amount of confidence
+25,Female,Alberta,Full time student,2.0,0.0,4,7,4,5.0,5,5,Very badly,No confidence at all
+35,Female,Quebec / Québec,Full time employment,1.0,0.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+58,Male,Alberta,Not working,1.0,0.0,4,2,5,5.0,5,4,Very badly,No confidence at all
+62,Male,Alberta,Retired,2.0,0.0,5,5,5,,5,5,Very badly,Not very much confidence
+45,Male,Quebec / Québec,Full time employment,4.0,4.0,7,6,5,,5,5,Very badly,No confidence at all
+61,Male,Ontario,Retired,1.0,0.0,5,4,3,5.0,4,5,Very well,A lot of confidence
+62,Male,Quebec / Québec,Full time employment,1.0,0.0,5,3,5,5.0,5,4,Somewhat well,A fair amount of confidence
+48,Female,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,4,1,5,,3,3,Very well,A lot of confidence
+29,Male,Ontario,Full time student,2.0,0.0,3,6,2,5.0,4,5,Somewhat well,A fair amount of confidence
+47,Female,Ontario,Full time employment,1.0,0.0,2,6,5,5.0,4,5,Somewhat well,Not very much confidence
+70,Male,Saskatchewan,Retired,2.0,0.0,7,5,3,,5,5,Very badly,Not very much confidence
+55,Male,Saskatchewan,Full time employment,2.0,0.0,2,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+72,Female,Ontario,Retired,2.0,0.0,5,5,5,5.0,5,4,Somewhat well,A fair amount of confidence
+51,Male,Ontario,Full time employment,3.0,0.0,2,3,5,4.0,3,5,Somewhat well,A fair amount of confidence
+34,Female,Quebec / Québec,Other,,1.0,2,4,5,5.0,3,5,Very badly,Not very much confidence
+76,Male,Quebec / Québec,Retired,2.0,0.0,7,4,5,5.0,5,5,Very badly,Not very much confidence
+65,Female,Quebec / Québec,Part time employment,2.0,0.0,2,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+87,Female,Manitoba,Retired,2.0,2.0,7,4,5,5.0,5,5,Very badly,No confidence at all
+56,Female,Quebec / Québec,Full time employment,1.0,0.0,4,4,5,5.0,4,5,Somewhat badly,A fair amount of confidence
+58,Female,Ontario,Retired,1.0,0.0,7,1,5,5.0,5,5,Somewhat well,Not very much confidence
+23,Female,Ontario,Unemployed,5.0,0.0,4,4,5,5.0,5,5,Somewhat badly,Don't know
+44,Female,British Columbia / Colombie Britanique,Part time employment,4.0,2.0,2,7,4,4.0,3,4,Somewhat badly,Not very much confidence
+63,Male,Quebec / Québec,Retired,2.0,0.0,7,7,5,5.0,5,5,Very badly,Not very much confidence
+37,Female,Prince Edward Island / Île-du-Prince-Édouard,Part time employment,,0.0,1,1,5,5.0,1,1,Somewhat badly,Don't know
+71,Female,Manitoba,Retired,2.0,0.0,7,5,5,4.0,4,5,Somewhat well,A fair amount of confidence
+32,Female,Quebec / Québec,Full time employment,4.0,2.0,3,5,4,5.0,5,5,Somewhat well,A fair amount of confidence
+51,Male,Ontario,Full time employment,4.0,2.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+34,Female,Alberta,Unemployed,3.0,3.0,4,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+78,Male,Ontario,Retired,1.0,0.0,4,1,5,5.0,3,5,Somewhat well,A fair amount of confidence
+30,Male,Quebec / Québec,Full time employment,7.0,0.0,6,3,3,,5,3,Very well,Not very much confidence
+71,Male,Quebec / Québec,Retired,2.0,2.0,5,3,5,4.0,5,5,Somewhat well,A fair amount of confidence
+18,Female,Quebec / Québec,Part time employment,4.0,2.0,2,1,5,5.0,5,5,Very badly,No confidence at all
+63,Female,Quebec / Québec,Other,1.0,0.0,7,3,5,5.0,5,5,Very well,A fair amount of confidence
+26,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time student,4.0,0.0,3,3,5,5.0,5,5,Don't know,Don't know
+76,Male,Ontario,Retired,3.0,0.0,2,1,5,,5,5,Somewhat well,A fair amount of confidence
+56,Male,Ontario,Full time employment,4.0,2.0,3,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+67,Female,Quebec / Québec,Full time employment,2.0,0.0,3,2,5,5.0,5,4,Somewhat well,A fair amount of confidence
+37,Male,Manitoba,Other,1.0,1.0,4,4,5,3.0,5,1,Very badly,No confidence at all
+70,Male,Quebec / Québec,Retired,1.0,0.0,7,2,5,4.0,5,5,Very well,A lot of confidence
+53,Male,Ontario,Part time employment,5.0,0.0,3,7,4,4.0,4,4,Somewhat well,A fair amount of confidence
+58,Female,Quebec / Québec,Part time employment,2.0,0.0,4,1,5,5.0,5,5,Very badly,Not very much confidence
+80,Male,Ontario,Retired,2.0,0.0,6,6,2,4.0,5,5,Somewhat badly,A fair amount of confidence
+68,Female,Alberta,Retired,1.0,1.0,6,5,5,5.0,5,5,Somewhat well,Not very much confidence
+60,Male,Alberta,Retired,3.0,0.0,3,3,4,5.0,4,5,Somewhat well,A fair amount of confidence
+69,Female,Ontario,Retired,2.0,0.0,4,4,5,5.0,3,5,Somewhat badly,No confidence at all
+67,Female,Quebec / Québec,Full time employment,,0.0,4,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+31,Male,Manitoba,Full time employment,2.0,2.0,5,6,2,,4,4,Somewhat well,A fair amount of confidence
+74,Male,Ontario,Retired,5.0,0.0,6,3,5,5.0,5,5,Somewhat well,A lot of confidence
+56,Male,British Columbia / Colombie Britanique,Unemployed,7.0,5.0,3,2,1,,1,1,Very badly,No confidence at all
+57,Female,British Columbia / Colombie Britanique,Other,2.0,0.0,7,2,5,5.0,5,5,Very badly,No confidence at all
+30,Female,Ontario,Full time employment,2.0,2.0,3,2,5,,5,5,Somewhat well,Not very much confidence
+48,Female,Ontario,Other,2.0,0.0,1,1,5,4.0,4,5,Don't know,Don't know
+68,Female,Quebec / Québec,Retired,2.0,0.0,4,1,5,5.0,5,5,Very well,A lot of confidence
+31,Male,Ontario,Full time employment,3.0,1.0,6,5,5,,5,5,Very well,A lot of confidence
+78,Female,Alberta,Retired,1.0,0.0,1,6,1,5.0,4,1,Very badly,No confidence at all
+40,Female,Ontario,Full time employment,4.0,3.0,2,2,5,5.0,5,5,Somewhat badly,A lot of confidence
+66,Male,Quebec / Québec,Retired,1.0,0.0,3,3,5,,4,4,Somewhat well,A fair amount of confidence
+28,Female,Ontario,Full time employment,4.0,0.0,4,4,5,5.0,4,5,Somewhat badly,Not very much confidence
+18,Male,Ontario,Full time student,5.0,2.0,5,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+73,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+33,Male,Ontario,Full time employment,4.0,0.0,4,4,5,5.0,4,4,Somewhat badly,Not very much confidence
+82,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,6,5,5.0,2,5,Very badly,Not very much confidence
+65,Female,Quebec / Québec,Retired,2.0,0.0,1,1,5,5.0,3,5,Very well,A lot of confidence
+20,Female,Ontario,Other,,,6,5,5,5.0,5,5,Somewhat well,Don't know
+25,Female,Ontario,Other,,0.0,2,2,5,5.0,1,5,Don't know,Don't know
+20,Male,Manitoba,Full time student,8.0,1.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+55,Female,Quebec / Québec,Part time employment,1.0,0.0,5,3,5,5.0,4,5,Very well,A lot of confidence
+33,Male,Ontario,Full time employment,5.0,0.0,4,4,3,3.0,3,3,Somewhat badly,Not very much confidence
+64,Male,Ontario,Full time employment,2.0,0.0,6,2,4,5.0,5,5,Somewhat well,A fair amount of confidence
+49,Male,Quebec / Québec,Part time employment,2.0,0.0,5,4,5,5.0,5,5,Somewhat well,A lot of confidence
+59,Male,Quebec / Québec,Not working,8.0,0.0,7,7,5,5.0,5,5,Very badly,No confidence at all
+26,Female,Ontario,Full time employment,3.0,1.0,1,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+42,Female,Quebec / Québec,Full time employment,3.0,2.0,4,4,2,5.0,5,5,Somewhat well,Not very much confidence
+60,Male,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,5,5,1,5.0,2,5,Somewhat badly,Not very much confidence
+42,Male,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,6,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+63,Female,Quebec / Québec,Not working,2.0,0.0,7,1,5,5.0,4,5,Very well,A lot of confidence
+63,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,2,2,5,5.0,4,5,Somewhat well,A fair amount of confidence
+77,Male,British Columbia / Colombie Britanique,Retired,1.0,0.0,7,6,5,5.0,4,5,Very badly,No confidence at all
+51,Female,Ontario,Other,1.0,0.0,1,1,5,5.0,3,3,Somewhat well,Don't know
+49,Female,Ontario,Full time employment,1.0,0.0,7,5,5,5.0,5,4,Very badly,Not very much confidence
+43,Male,Ontario,Full time employment,1.0,0.0,6,6,5,5.0,5,5,Very badly,No confidence at all
+77,Female,Quebec / Québec,Retired,2.0,0.0,5,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+79,Male,Ontario,Full time employment,2.0,2.0,4,1,5,4.0,5,5,Somewhat badly,A fair amount of confidence
+77,Female,Alberta,Retired,2.0,0.0,3,1,5,,4,5,Somewhat badly,No confidence at all
+48,Male,Quebec / Québec,Full time employment,5.0,1.0,3,4,5,5.0,4,4,Somewhat badly,Not very much confidence
+48,Female,Ontario,Part time employment,3.0,0.0,4,5,5,5.0,5,4,Somewhat well,A fair amount of confidence
+47,Female,Ontario,Full time employment,3.0,0.0,3,7,4,,5,5,Somewhat badly,A fair amount of confidence
+75,Male,Quebec / Québec,Retired,1.0,1.0,1,5,5,5.0,5,5,Somewhat well,A lot of confidence
+59,Female,Ontario,Not working,3.0,0.0,7,4,4,,4,5,Somewhat badly,Not very much confidence
+54,Male,British Columbia / Colombie Britanique,Full time employment,4.0,2.0,5,4,5,4.0,4,5,Somewhat well,A fair amount of confidence
+32,Female,Quebec / Québec,Full time employment,3.0,2.0,1,1,3,4.0,3,2,Very badly,No confidence at all
+31,Male,Ontario,Full time employment,6.0,2.0,2,1,5,5.0,5,4,Somewhat badly,Not very much confidence
+42,Female,Quebec / Québec,Unemployed,4.0,4.0,3,4,5,5.0,4,5,Somewhat well,Not very much confidence
+58,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,3.0,1.0,7,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+66,Female,Nova Scotia / Nouvelle-Écosse,Part time employment,2.0,0.0,5,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+22,Male,Alberta,Full time student,5.0,2.0,4,1,5,4.0,3,5,Don't know,Don't know
+21,Female,Ontario,Full time student,2.0,1.0,6,1,5,,5,5,Somewhat well,Not very much confidence
+19,Male,Ontario,Full time student,1.0,0.0,7,1,5,4.0,3,5,Somewhat well,A fair amount of confidence
+36,Male,Ontario,Full time employment,2.0,0.0,4,3,5,5.0,5,4,Very badly,Not very much confidence
+30,Female,Ontario,Full time employment,2.0,0.0,5,7,5,,5,4,Somewhat well,A fair amount of confidence
+74,Male,Quebec / Québec,Retired,2.0,0.0,6,1,5,,5,5,Very well,A lot of confidence
+54,Male,British Columbia / Colombie Britanique,Part time employment,,0.0,2,2,5,3.0,4,5,Very badly,No confidence at all
+74,Female,British Columbia / Colombie Britanique,Part time employment,1.0,0.0,3,2,1,4.0,3,1,Very badly,No confidence at all
+70,Male,Quebec / Québec,Retired,2.0,0.0,6,7,5,5.0,4,5,Somewhat well,A fair amount of confidence
+58,Male,Alberta,Not working,1.0,0.0,4,2,5,5.0,5,3,Very badly,No confidence at all
+68,Male,New Brunswick / Nouveau-Brunswick,Retired,2.0,0.0,4,4,5,4.0,4,5,Very badly,Not very much confidence
+45,Female,New Brunswick / Nouveau-Brunswick,Full time employment,4.0,1.0,4,4,5,4.0,5,5,Somewhat well,A fair amount of confidence
+23,Female,Ontario,Full time employment,2.0,0.0,2,6,5,5.0,4,5,Somewhat badly,Not very much confidence
+75,Female,Ontario,Retired,1.0,0.0,7,4,5,,5,5,Somewhat well,A fair amount of confidence
+59,Male,Ontario,Unemployed,2.0,0.0,3,4,5,1.0,3,5,Somewhat well,A fair amount of confidence
+80,Male,Ontario,Retired,4.0,0.0,3,3,5,5.0,4,5,Very well,A lot of confidence
+30,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,4.0,0.0,4,4,4,,1,1,Somewhat well,A fair amount of confidence
+65,Male,British Columbia / Colombie Britanique,Retired,,0.0,2,1,5,5.0,2,5,Very badly,No confidence at all
+26,Female,Quebec / Québec,Full time employment,2.0,0.0,5,1,5,5.0,5,5,Very well,A fair amount of confidence
+68,Female,British Columbia / Colombie Britanique,Other,1.0,0.0,7,7,5,5.0,4,5,Somewhat badly,Not very much confidence
+70,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,5,1,2,5.0,5,5,Somewhat well,A fair amount of confidence
+42,Male,Ontario,Full time employment,5.0,3.0,1,6,4,4.0,2,4,Somewhat badly,Not very much confidence
+24,Female,Nova Scotia / Nouvelle-Écosse,Part time employment,4.0,0.0,1,1,5,5.0,5,5,Somewhat well,A lot of confidence
+41,Female,Quebec / Québec,Full time employment,2.0,0.0,4,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+34,Male,Manitoba,Full time employment,5.0,2.0,4,4,3,,4,2,Very badly,No confidence at all
+52,Female,Manitoba,Not working,2.0,0.0,6,3,5,3.0,3,4,Somewhat well,A lot of confidence
+50,Female,British Columbia / Colombie Britanique,Full time employment,3.0,0.0,7,4,3,,5,5,Somewhat well,A lot of confidence
+68,Male,Ontario,Retired,1.0,0.0,7,3,5,5.0,4,5,Very badly,No confidence at all
+47,Male,British Columbia / Colombie Britanique,Full time employment,1.0,1.0,2,4,4,3.0,3,3,Very badly,No confidence at all
+31,Female,Quebec / Québec,Full time employment,2.0,0.0,4,4,5,4.0,5,5,Somewhat well,A fair amount of confidence
+59,Male,Ontario,Not working,2.0,0.0,1,1,5,5.0,1,5,Somewhat badly,No confidence at all
+72,Male,Quebec / Québec,Retired,2.0,0.0,7,5,5,5.0,5,4,Somewhat well,A fair amount of confidence
+84,Male,Ontario,Retired,2.0,0.0,4,4,5,4.0,4,1,Somewhat badly,A lot of confidence
+43,Male,Ontario,Full time employment,4.0,2.0,1,7,4,5.0,5,5,Somewhat well,A fair amount of confidence
+70,Female,Ontario,Retired,2.0,0.0,1,1,5,5.0,3,3,Very badly,No confidence at all
+49,Male,Quebec / Québec,Full time employment,3.0,1.0,5,5,5,,5,5,Somewhat well,A fair amount of confidence
+49,Female,Quebec / Québec,Full time employment,2.0,0.0,3,5,5,5.0,4,1,Somewhat well,A fair amount of confidence
+64,Female,Prince Edward Island / Île-du-Prince-Édouard,Retired,,,6,4,5,5.0,4,5,Very well,A lot of confidence
+21,Male,Alberta,Part time employment,3.0,1.0,5,5,5,5.0,5,5,Somewhat badly,Not very much confidence
+60,Male,Ontario,Unemployed,3.0,0.0,4,3,5,5.0,5,5,Very badly,No confidence at all
+44,Male,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,7,4,5,5.0,4,5,Very badly,Not very much confidence
+23,Female,Ontario,Full time employment,1.0,,1,1,5,5.0,5,4,Very well,A fair amount of confidence
+25,Male,Manitoba,Full time student,4.0,0.0,1,1,4,3.0,3,4,Don't know,A fair amount of confidence
+39,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,1,6,1,1.0,1,1,Very badly,No confidence at all
+57,Female,Ontario,Retired,2.0,0.0,5,2,5,5.0,4,5,Somewhat badly,A fair amount of confidence
+76,Female,Quebec / Québec,Retired,2.0,0.0,7,7,5,,4,5,Very well,A fair amount of confidence
+21,Female,Saskatchewan,Unemployed,3.0,1.0,1,2,5,4.0,3,4,Somewhat badly,A fair amount of confidence
+36,Male,Ontario,Other,,,4,4,3,3.0,3,3,Don't know,Don't know
+64,Male,Ontario,Full time employment,2.0,2.0,3,2,5,5.0,5,3,Somewhat badly,A fair amount of confidence
+34,Male,Ontario,Full time employment,,0.0,6,5,1,1.0,2,2,Don't know,Don't know
+55,Female,Ontario,Full time employment,1.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+62,Female,Ontario,Not working,2.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+69,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,7,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+76,Male,Quebec / Québec,Retired,2.0,0.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+85,Female,Ontario,Retired,1.0,0.0,5,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+39,Female,Saskatchewan,Part time employment,2.0,1.0,7,4,5,5.0,5,5,Very badly,No confidence at all
+35,Male,Quebec / Québec,Unemployed,3.0,1.0,7,6,5,5.0,5,5,Very well,A lot of confidence
+52,Male,Saskatchewan,Unemployed,2.0,0.0,2,3,5,5.0,5,5,Very badly,Not very much confidence
+71,Female,Saskatchewan,Retired,1.0,0.0,2,1,3,5.0,4,5,Somewhat well,A fair amount of confidence
+33,Female,Alberta,Full time student,4.0,2.0,1,5,5,5.0,5,3,Somewhat badly,Not very much confidence
+53,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,1.0,0.0,7,7,5,,5,1,Very badly,No confidence at all
+58,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,3.0,0.0,6,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+22,Female,British Columbia / Colombie Britanique,Full time student,2.0,0.0,4,3,4,,5,4,Somewhat well,A fair amount of confidence
+52,Male,New Brunswick / Nouveau-Brunswick,Full time employment,4.0,1.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+32,Female,Ontario,Full time employment,,2.0,4,4,5,5.0,5,5,Very badly,No confidence at all
+49,Male,Quebec / Québec,Full time employment,7.0,0.0,7,7,5,,3,5,Somewhat well,A fair amount of confidence
+69,Male,Alberta,Full time employment,4.0,1.0,7,6,5,5.0,5,5,Somewhat badly,Not very much confidence
+39,Male,Manitoba,Full time student,1.0,0.0,5,4,4,5.0,4,4,Somewhat well,Not very much confidence
+62,Female,Quebec / Québec,Retired,2.0,0.0,6,6,5,4.0,5,5,Somewhat well,A fair amount of confidence
+60,Female,Saskatchewan,Not working,5.0,3.0,7,5,5,,5,5,Somewhat well,A fair amount of confidence
+25,Male,Manitoba,Full time student,3.0,0.0,1,1,4,,5,3,Somewhat badly,A fair amount of confidence
+34,Male,Ontario,Full time employment,6.0,4.0,1,1,3,4.0,2,1,Very badly,Not very much confidence
+66,Male,Quebec / Québec,Retired,2.0,0.0,3,1,5,4.0,3,5,Somewhat well,A lot of confidence
+20,Female,Ontario,Full time student,5.0,0.0,2,6,5,5.0,5,5,Somewhat badly,Not very much confidence
+71,Female,Quebec / Québec,Retired,1.0,1.0,7,2,5,5.0,4,5,Somewhat badly,Not very much confidence
+55,Female,Ontario,Full time employment,2.0,0.0,4,5,5,4.0,4,5,Somewhat well,A fair amount of confidence
+66,Female,Ontario,Retired,3.0,0.0,1,4,3,,2,4,Very badly,No confidence at all
+22,Female,New Brunswick / Nouveau-Brunswick,Full time employment,2.0,0.0,4,5,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+52,Male,Ontario,Unemployed,4.0,1.0,6,6,5,5.0,5,5,Very well,A lot of confidence
+29,Female,Ontario,Full time employment,4.0,0.0,5,4,5,5.0,4,5,Somewhat badly,Not very much confidence
+59,Male,British Columbia / Colombie Britanique,Other,3.0,0.0,4,6,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+24,Male,Ontario,Part time employment,6.0,1.0,2,7,5,5.0,5,4,Somewhat badly,A fair amount of confidence
+68,Male,Quebec / Québec,Retired,1.0,0.0,6,4,5,,5,5,Somewhat well,A fair amount of confidence
+21,Male,Ontario,Full time student,3.0,1.0,7,1,4,5.0,5,1,Somewhat well,Not very much confidence
+52,Female,Manitoba,Full time employment,3.0,0.0,4,4,5,5.0,5,5,Very badly,Not very much confidence
+27,Male,British Columbia / Colombie Britanique,Part time employment,5.0,0.0,1,7,1,,4,1,Very badly,No confidence at all
+49,Female,Quebec / Québec,Full time employment,3.0,0.0,1,5,5,4.0,5,4,Somewhat well,A fair amount of confidence
+19,Female,Manitoba,Full time student,4.0,1.0,5,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+66,Male,Saskatchewan,Full time employment,1.0,0.0,6,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+21,Female,Quebec / Québec,Full time student,1.0,0.0,1,7,1,4.0,3,1,Very badly,No confidence at all
+72,Female,Ontario,Retired,1.0,0.0,7,4,5,4.0,4,5,Somewhat well,A fair amount of confidence
+40,Male,Alberta,Full time student,2.0,0.0,4,1,3,5.0,2,5,Somewhat badly,Not very much confidence
+35,Male,Quebec / Québec,Full time student,1.0,0.0,1,1,3,4.0,5,5,Somewhat well,A fair amount of confidence
+58,Male,Saskatchewan,Retired,1.0,0.0,5,3,5,4.0,4,4,Somewhat well,A fair amount of confidence
+21,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,6.0,0.0,1,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+72,Female,Saskatchewan,Retired,2.0,0.0,7,5,5,,5,5,Very badly,Not very much confidence
+40,Female,British Columbia / Colombie Britanique,Full time employment,4.0,1.0,7,1,5,5.0,5,5,Very well,A lot of confidence
+74,Female,Quebec / Québec,Retired,2.0,0.0,6,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+42,Male,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+74,Male,Ontario,Retired,2.0,0.0,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+25,Female,British Columbia / Colombie Britanique,Not working,3.0,1.0,1,1,1,,1,1,Very badly,No confidence at all
+38,Male,Ontario,Full time employment,4.0,2.0,2,6,5,4.0,3,5,Somewhat well,A fair amount of confidence
+38,Female,Quebec / Québec,Full time employment,1.0,1.0,1,1,5,5.0,2,1,Very badly,No confidence at all
+73,Male,Quebec / Québec,Retired,2.0,0.0,6,3,4,4.0,5,5,Somewhat well,A fair amount of confidence
+31,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,2.0,0.0,5,3,5,4.0,4,5,Somewhat well,A fair amount of confidence
+24,Female,Ontario,Other,,,1,1,1,,1,1,Don't know,Don't know
+72,Male,Quebec / Québec,Retired,2.0,0.0,6,4,5,,5,5,Very well,A lot of confidence
+33,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,1.0,0.0,2,3,5,5.0,5,5,Somewhat well,Not very much confidence
+40,Male,Ontario,Full time employment,3.0,1.0,2,6,4,5.0,5,5,Somewhat well,A fair amount of confidence
+40,Male,Quebec / Québec,Unemployed,2.0,0.0,1,2,4,,5,3,Somewhat well,Not very much confidence
+21,Male,Ontario,Full time employment,3.0,1.0,2,5,5,5.0,4,5,Somewhat well,Not very much confidence
+29,Female,Ontario,Full time employment,2.0,0.0,7,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+70,Female,Alberta,Retired,4.0,1.0,4,4,5,,5,5,Somewhat badly,A fair amount of confidence
+72,Female,Alberta,Retired,2.0,0.0,5,4,5,5.0,5,5,Somewhat well,A lot of confidence
+57,Male,Saskatchewan,Other,2.0,2.0,4,3,5,5.0,4,5,Very badly,A fair amount of confidence
+40,Female,British Columbia / Colombie Britanique,Part time employment,3.0,1.0,6,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+22,Female,Prince Edward Island / Île-du-Prince-Édouard,Full time student,2.0,0.0,2,7,5,5.0,5,5,Somewhat well,Don't know
+75,Female,Alberta,Retired,2.0,0.0,7,4,5,5.0,5,5,Very badly,Not very much confidence
+18,Female,Quebec / Québec,Full time student,6.0,3.0,1,4,5,5.0,3,4,Very badly,Not very much confidence
+29,Female,Quebec / Québec,Other,4.0,2.0,4,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+41,Female,Ontario,Full time employment,2.0,0.0,3,5,5,5.0,4,4,Somewhat badly,Not very much confidence
+32,Male,Manitoba,Part time employment,5.0,4.0,3,1,2,5.0,3,5,Very well,A lot of confidence
+72,Male,Quebec / Québec,Retired,2.0,0.0,1,2,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+36,Female,Ontario,Full time employment,4.0,2.0,3,7,1,5.0,4,4,Somewhat badly,A fair amount of confidence
+23,Female,Ontario,Full time student,4.0,0.0,3,7,4,4.0,4,5,Somewhat badly,Not very much confidence
+66,Male,Ontario,Retired,2.0,0.0,6,4,1,4.0,4,5,Somewhat badly,Not very much confidence
+38,Female,Ontario,Full time employment,3.0,1.0,4,3,5,5.0,4,5,Very well,A lot of confidence
+53,Female,Quebec / Québec,Full time employment,2.0,0.0,1,7,5,5.0,4,1,Somewhat well,A fair amount of confidence
+31,Male,Alberta,Full time employment,4.0,0.0,5,3,5,4.0,4,4,Somewhat well,A fair amount of confidence
+37,Male,Ontario,Full time employment,1.0,0.0,1,5,5,,1,5,Somewhat badly,A fair amount of confidence
+18,Female,Quebec / Québec,Full time student,1.0,0.0,3,4,5,5.0,4,5,Somewhat well,A fair amount of confidence
+63,Female,British Columbia / Colombie Britanique,Part time employment,1.0,1.0,7,1,5,5.0,5,5,Very well,A fair amount of confidence
+71,Female,Quebec / Québec,Retired,2.0,0.0,2,2,5,5.0,5,5,Very well,A lot of confidence
+37,Female,Quebec / Québec,Full time student,2.0,0.0,7,1,5,,4,5,Very well,A lot of confidence
+60,Female,Ontario,Unemployed,2.0,0.0,6,1,5,5.0,3,5,Very well,A lot of confidence
+28,Female,Ontario,Full time employment,4.0,4.0,5,4,5,5.0,4,5,Somewhat badly,Not very much confidence
+71,Male,British Columbia / Colombie Britanique,Retired,1.0,1.0,4,4,5,5.0,5,5,Very well,A lot of confidence
+61,Male,Ontario,Full time employment,2.0,0.0,7,6,5,5.0,5,5,Very badly,Not very much confidence
+19,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time student,4.0,0.0,7,5,2,5.0,4,4,Somewhat badly,Not very much confidence
+48,Female,Quebec / Québec,Part time employment,,0.0,6,3,5,5.0,5,5,Somewhat badly,Not very much confidence
+74,Female,Alberta,Retired,2.0,0.0,1,1,1,5.0,1,5,Very well,A lot of confidence
+47,Male,Ontario,Unemployed,2.0,0.0,1,4,5,3.0,3,3,Very badly,No confidence at all
+63,Male,Quebec / Québec,Retired,3.0,0.0,5,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+39,Male,Manitoba,Full time employment,3.0,1.0,5,6,5,5.0,4,5,Somewhat well,A fair amount of confidence
+28,Male,Alberta,Full time employment,4.0,4.0,1,1,5,2.0,2,5,Very badly,No confidence at all
+23,Male,Ontario,Unemployed,4.0,0.0,4,4,5,,5,5,Somewhat badly,A fair amount of confidence
+46,Male,Manitoba,Full time employment,3.0,0.0,2,4,1,,4,3,Somewhat badly,Don't know
+67,Female,Ontario,Retired,2.0,0.0,3,4,5,5.0,5,5,Very badly,A fair amount of confidence
+79,Male,British Columbia / Colombie Britanique,Retired,1.0,0.0,6,3,5,5.0,5,5,Very well,A lot of confidence
+58,Female,Quebec / Québec,Full time employment,1.0,0.0,6,6,5,4.0,4,5,Somewhat well,A fair amount of confidence
+69,Male,Ontario,Full time employment,1.0,0.0,1,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+21,Female,Quebec / Québec,Full time student,6.0,0.0,1,1,5,5.0,4,5,Somewhat badly,A fair amount of confidence
+34,Female,Ontario,Not working,3.0,1.0,7,1,5,5.0,5,5,Somewhat well,A lot of confidence
+73,Female,Ontario,Retired,2.0,0.0,7,2,5,5.0,4,5,Somewhat well,A lot of confidence
+53,Male,Alberta,Full time employment,2.0,0.0,2,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+68,Male,Ontario,Retired,1.0,0.0,7,4,5,5.0,4,5,Very badly,A fair amount of confidence
+46,Female,Quebec / Québec,Part time employment,2.0,1.0,4,4,5,5.0,5,5,Somewhat well,Not very much confidence
+65,Female,Quebec / Québec,Retired,3.0,0.0,6,2,5,4.0,4,5,Somewhat well,A fair amount of confidence
+61,Female,Quebec / Québec,Retired,1.0,0.0,6,4,5,,5,5,Somewhat well,A lot of confidence
+50,Male,Ontario,Unemployed,8.0,0.0,3,3,5,4.0,4,4,Very badly,No confidence at all
+67,Female,Quebec / Québec,Retired,2.0,0.0,1,1,5,,5,5,Very badly,Not very much confidence
+24,Male,Ontario,Full time student,4.0,0.0,4,2,5,5.0,3,5,Somewhat badly,A fair amount of confidence
+56,Female,Alberta,Full time employment,3.0,0.0,4,4,4,,3,4,Don't know,Don't know
+53,Female,Ontario,Full time employment,1.0,0.0,7,5,5,,5,5,Somewhat badly,Not very much confidence
+63,Male,Ontario,Unemployed,1.0,0.0,2,1,5,4.0,3,1,Somewhat well,A fair amount of confidence
+41,Female,Ontario,Not working,4.0,2.0,6,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+36,Female,Alberta,Part time employment,6.0,2.0,5,6,5,4.0,4,5,Somewhat badly,Not very much confidence
+32,Female,Ontario,Full time employment,4.0,2.0,2,5,5,5.0,3,5,Somewhat well,A fair amount of confidence
+51,Male,Ontario,Full time employment,1.0,0.0,4,1,5,5.0,5,5,Very badly,Not very much confidence
+24,Female,British Columbia / Colombie Britanique,Unemployed,4.0,0.0,6,2,5,5.0,5,5,Somewhat badly,Not very much confidence
+52,Male,Quebec / Québec,Full time employment,4.0,2.0,2,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+49,Female,Ontario,Other,3.0,3.0,6,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+75,Male,Ontario,Retired,2.0,0.0,7,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+65,Female,Ontario,Retired,2.0,0.0,4,4,5,4.0,5,5,Somewhat well,A fair amount of confidence
+27,Female,Alberta,Part time employment,1.0,0.0,3,2,5,4.0,4,3,Very badly,A fair amount of confidence
+75,Female,Quebec / Québec,Retired,2.0,0.0,7,3,5,5.0,5,5,Very well,A lot of confidence
+47,Female,Quebec / Québec,Retired,2.0,2.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+20,Female,Ontario,Full time student,5.0,0.0,1,1,5,5.0,1,1,Very badly,No confidence at all
+55,Male,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,3,1,5,5.0,5,5,Very badly,No confidence at all
+23,Female,Alberta,Full time employment,3.0,2.0,4,3,5,5.0,4,5,Somewhat well,Not very much confidence
+73,Male,Quebec / Québec,Retired,2.0,0.0,4,2,5,4.0,4,5,Somewhat well,A fair amount of confidence
+29,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,2.0,1.0,2,6,5,5.0,4,3,Somewhat well,A fair amount of confidence
+74,Female,British Columbia / Colombie Britanique,Part time employment,1.0,0.0,3,2,1,4.0,3,1,Very badly,No confidence at all
+68,Male,Saskatchewan,Retired,1.0,0.0,7,4,5,5.0,4,5,Somewhat well,A fair amount of confidence
+76,Male,Quebec / Québec,Retired,2.0,0.0,7,1,5,5.0,5,5,Very well,A lot of confidence
+22,Female,Alberta,Unemployed,4.0,1.0,7,5,5,5.0,5,5,Somewhat badly,Not very much confidence
+39,Male,British Columbia / Colombie Britanique,Full time employment,4.0,4.0,5,1,5,5.0,5,5,Somewhat well,A lot of confidence
+37,Female,Quebec / Québec,Full time employment,1.0,0.0,3,6,5,4.0,4,5,Somewhat well,A fair amount of confidence
+20,Female,Quebec / Québec,Full time student,4.0,1.0,3,1,5,,5,5,Very badly,Not very much confidence
+53,Female,Ontario,Not working,2.0,0.0,7,7,5,5.0,5,5,Somewhat well,Not very much confidence
+24,Female,Ontario,Other,,0.0,3,4,5,5.0,1,5,Very badly,Not very much confidence
+73,Female,Ontario,Retired,2.0,0.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+38,Male,Quebec / Québec,Full time employment,3.0,3.0,6,5,5,4.0,4,4,Somewhat well,A fair amount of confidence
+66,Male,Quebec / Québec,Retired,2.0,0.0,5,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+43,Female,Manitoba,Part time employment,3.0,0.0,4,5,4,5.0,4,5,Somewhat well,A fair amount of confidence
+50,Female,Quebec / Québec,Other,2.0,0.0,5,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+49,Female,Ontario,Full time employment,1.0,0.0,5,3,5,,4,5,Somewhat well,A fair amount of confidence
+69,Male,Ontario,Retired,2.0,0.0,4,2,5,5.0,5,4,Very badly,Not very much confidence
+33,Male,Alberta,Part time employment,3.0,0.0,4,3,3,5.0,3,5,Very badly,Not very much confidence
+80,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,4,5,5,4.0,4,5,Somewhat well,A fair amount of confidence
+58,Female,Nova Scotia / Nouvelle-Écosse,Full time employment,3.0,0.0,7,4,5,5.0,5,5,Very badly,A fair amount of confidence
+41,Female,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+38,Male,Quebec / Québec,Full time employment,3.0,1.0,5,4,3,4.0,3,4,Somewhat well,Not very much confidence
+59,Male,Quebec / Québec,Part time employment,2.0,0.0,5,3,5,5.0,5,5,Very badly,No confidence at all
+59,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,3,6,5,4.0,5,5,Very badly,No confidence at all
+49,Female,Ontario,Unemployed,1.0,0.0,1,1,5,5.0,5,5,Very badly,Not very much confidence
+41,Male,Alberta,Full time employment,1.0,0.0,1,3,2,4.0,2,2,Very badly,No confidence at all
+62,Male,Manitoba,Retired,2.0,0.0,6,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+64,Male,Ontario,Retired,2.0,0.0,2,2,5,4.0,4,5,Somewhat well,A fair amount of confidence
+42,Male,Ontario,Full time employment,2.0,0.0,3,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+56,Male,Quebec / Québec,Full time employment,4.0,4.0,7,6,5,5.0,5,5,Very well,A lot of confidence
+62,Female,Ontario,Other,1.0,0.0,5,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+43,Male,Alberta,Full time employment,4.0,2.0,5,5,5,5.0,4,5,Very badly,No confidence at all
+64,Female,Alberta,Unemployed,2.0,0.0,5,3,4,,4,3,Somewhat well,A lot of confidence
+49,Male,Ontario,Retired,5.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+33,Female,Ontario,Part time employment,4.0,2.0,3,7,5,5.0,5,4,Somewhat well,Not very much confidence
+47,Female,Quebec / Québec,Full time employment,2.0,2.0,2,2,5,5.0,5,1,Very badly,Not very much confidence
+64,Male,Quebec / Québec,Retired,2.0,0.0,3,3,5,,5,5,Somewhat well,A fair amount of confidence
+32,Female,Ontario,Full time employment,1.0,0.0,1,1,3,,3,5,Somewhat well,A fair amount of confidence
+31,Female,Ontario,Full time employment,5.0,0.0,5,6,3,,3,4,Somewhat well,A fair amount of confidence
+40,Female,Ontario,Unemployed,5.0,4.0,7,1,5,5.0,5,5,Very well,A lot of confidence
+35,Male,Quebec / Québec,Unemployed,1.0,0.0,4,4,5,,3,1,Somewhat well,A fair amount of confidence
+29,Female,Alberta,Full time employment,4.0,1.0,4,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+30,Female,Ontario,Full time employment,2.0,1.0,7,1,5,5.0,4,5,Somewhat badly,Not very much confidence
+62,Female,Quebec / Québec,Full time employment,1.0,0.0,3,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+56,Male,Nova Scotia / Nouvelle-Écosse,Full time employment,2.0,0.0,4,7,5,4.0,4,4,Somewhat well,A fair amount of confidence
+37,Female,Manitoba,Full time employment,5.0,4.0,7,4,5,,4,5,Somewhat well,A fair amount of confidence
+60,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,5,6,5,5.0,4,4,Very badly,Not very much confidence
+51,Female,Quebec / Québec,Not working,4.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+73,Male,Saskatchewan,Retired,1.0,0.0,2,3,4,3.0,3,5,Somewhat badly,Not very much confidence
+27,Male,Ontario,Full time employment,8.0,1.0,6,5,5,4.0,5,4,Very well,A fair amount of confidence
+18,Male,Ontario,Full time student,,3.0,3,5,5,5.0,4,4,Somewhat badly,A fair amount of confidence
+56,Male,Ontario,Retired,1.0,0.0,1,1,3,4.0,3,1,Very badly,Not very much confidence
+37,Female,Ontario,Full time employment,4.0,4.0,4,4,5,5.0,4,5,Somewhat well,Not very much confidence
+28,Female,Ontario,Full time employment,2.0,2.0,2,3,5,5.0,4,3,Somewhat badly,Not very much confidence
+31,Female,Ontario,Full time employment,3.0,1.0,7,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+71,Male,British Columbia / Colombie Britanique,Retired,2.0,2.0,7,4,5,4.0,1,5,Very well,A lot of confidence
+68,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,4,4,5,5.0,5,5,Very well,A lot of confidence
+36,Male,Ontario,Other,,0.0,4,4,5,5.0,5,5,Don't know,Don't know
+45,Male,Alberta,Full time employment,3.0,1.0,4,4,5,,5,5,Very well,A lot of confidence
+65,Female,Quebec / Québec,Part time employment,2.0,0.0,5,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+62,Male,Nova Scotia / Nouvelle-Écosse,Part time employment,3.0,0.0,1,1,5,5.0,4,5,Somewhat well,A fair amount of confidence
+43,Female,Manitoba,Full time employment,4.0,2.0,5,6,5,5.0,5,4,Somewhat well,Not very much confidence
+61,Female,Ontario,Retired,2.0,2.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+21,Male,Alberta,Unemployed,2.0,0.0,3,2,5,5.0,4,5,Somewhat well,A fair amount of confidence
+46,Male,Ontario,Full time employment,2.0,0.0,5,3,5,,5,5,Somewhat well,A fair amount of confidence
+64,Female,Quebec / Québec,Retired,2.0,0.0,1,1,1,1.0,3,1,Very well,A lot of confidence
+29,Female,Ontario,Unemployed,7.0,1.0,1,1,5,,5,5,Somewhat well,A fair amount of confidence
+25,Female,Alberta,Full time employment,1.0,0.0,2,5,3,,4,3,Somewhat well,A fair amount of confidence
+41,Male,Nunavut,Unemployed,3.0,0.0,7,7,5,5.0,5,5,Somewhat well,Don't know
+34,Female,Quebec / Québec,Full time employment,1.0,0.0,1,5,5,5.0,5,5,Very badly,No confidence at all
+63,Male,Alberta,Unemployed,1.0,0.0,1,1,3,5.0,1,1,Somewhat well,Don't know
+68,Male,Quebec / Québec,Retired,2.0,0.0,5,1,4,4.0,4,5,Somewhat badly,A fair amount of confidence
+82,Male,Quebec / Québec,Part time employment,2.0,0.0,7,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+50,Male,Manitoba,Full time employment,1.0,0.0,4,5,5,4.0,5,5,Somewhat well,A fair amount of confidence
+39,Male,Quebec / Québec,Unemployed,7.0,1.0,3,2,2,2.0,2,2,Very badly,No confidence at all
+65,Male,Saskatchewan,Full time employment,2.0,0.0,4,3,4,4.0,4,5,Very well,A lot of confidence
+68,Female,Quebec / Québec,Retired,2.0,0.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+71,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+22,Male,British Columbia / Colombie Britanique,Not working,4.0,4.0,4,4,3,,2,4,Somewhat badly,Not very much confidence
+70,Female,Alberta,Retired,1.0,0.0,5,2,3,4.0,4,4,Very well,A fair amount of confidence
+31,Female,Ontario,Full time student,3.0,0.0,4,5,5,5.0,5,5,Very well,A lot of confidence
+51,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Not working,2.0,0.0,6,7,5,5.0,3,5,Somewhat well,A fair amount of confidence
+64,Female,Ontario,Retired,3.0,0.0,2,4,4,,2,5,Somewhat well,A fair amount of confidence
+73,Male,Saskatchewan,Retired,2.0,2.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+57,Male,Ontario,Full time employment,2.0,0.0,5,6,4,3.0,4,4,Somewhat well,A fair amount of confidence
+34,Female,Quebec / Québec,Part time employment,4.0,2.0,2,3,5,5.0,5,5,Very badly,No confidence at all
+78,Female,Ontario,Retired,1.0,0.0,2,2,2,5.0,2,1,Somewhat well,Not very much confidence
+42,Male,Ontario,Full time employment,4.0,2.0,2,1,2,,1,1,Very badly,No confidence at all
+52,Male,Ontario,Unemployed,2.0,0.0,4,5,5,5.0,4,5,Somewhat badly,Not very much confidence
+74,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,5,3,5,5.0,4,5,Very well,A lot of confidence
+29,Male,Ontario,Part time employment,1.0,0.0,1,1,5,,4,5,Somewhat well,A lot of confidence
+24,Female,Alberta,Other,3.0,0.0,5,2,5,5.0,5,5,Very badly,No confidence at all
+26,Male,Ontario,Full time employment,2.0,0.0,7,7,5,,5,5,Very badly,No confidence at all
+52,Male,Ontario,Not working,1.0,0.0,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+20,Female,Ontario,Full time student,8.0,5.0,2,1,5,5.0,5,5,Very well,A lot of confidence
+64,Male,Quebec / Québec,Full time employment,2.0,0.0,4,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+60,Female,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,7,1,5,5.0,5,5,Very badly,Not very much confidence
+78,Male,Quebec / Québec,Retired,1.0,0.0,7,2,5,4.0,4,5,Very well,A lot of confidence
+22,Female,Quebec / Québec,Full time employment,3.0,0.0,4,4,5,4.0,4,4,Somewhat badly,Not very much confidence
+31,Male,Ontario,Unemployed,2.0,1.0,4,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+44,Male,Ontario,Full time employment,1.0,2.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+64,Female,Alberta,Retired,2.0,0.0,7,2,5,,5,5,Very well,A lot of confidence
+18,Male,Alberta,Full time employment,3.0,0.0,1,1,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+56,Female,Quebec / Québec,Full time employment,1.0,0.0,6,3,5,,5,5,Somewhat well,A fair amount of confidence
+40,Female,Ontario,Part time employment,4.0,2.0,5,5,5,5.0,4,5,Somewhat well,A fair amount of confidence
+57,Female,Quebec / Québec,Not working,1.0,0.0,7,4,4,5.0,5,5,Very badly,No confidence at all
+36,Female,Ontario,Part time employment,2.0,2.0,5,4,5,5.0,5,4,Somewhat badly,Not very much confidence
+44,Male,Saskatchewan,Full time employment,2.0,0.0,2,1,5,5.0,5,5,Very well,A lot of confidence
+81,Male,Ontario,Retired,2.0,0.0,2,6,5,5.0,5,5,Very well,A lot of confidence
+41,Male,Ontario,Full time employment,4.0,2.0,3,3,5,,5,4,Somewhat well,A fair amount of confidence
+25,Male,Manitoba,Full time student,4.0,0.0,1,1,5,4.0,4,3,Somewhat well,Not very much confidence
+72,Male,Quebec / Québec,Retired,2.0,0.0,4,1,5,4.0,5,5,Somewhat well,A fair amount of confidence
+77,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,1,4,,5,5,Somewhat well,Not very much confidence
+53,Female,Alberta,Not working,2.0,1.0,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+72,Female,Ontario,Retired,1.0,0.0,6,4,5,4.0,5,5,Somewhat badly,A fair amount of confidence
+60,Male,Quebec / Québec,Full time employment,2.0,0.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+70,Female,Manitoba,Retired,1.0,0.0,6,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+36,Male,Quebec / Québec,Not working,2.0,0.0,1,1,5,5.0,5,5,Very badly,No confidence at all
+60,Female,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,5,6,5,3.0,4,5,Very badly,No confidence at all
+53,Female,Ontario,Not working,2.0,0.0,7,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+43,Male,Ontario,Full time employment,1.0,0.0,7,4,5,5.0,5,5,Very badly,No confidence at all
+42,Male,Ontario,Full time employment,5.0,3.0,2,5,4,4.0,2,3,Somewhat badly,Don't know
+57,Male,Nova Scotia / Nouvelle-Écosse,Not working,4.0,0.0,4,5,2,5.0,5,1,Somewhat well,Not very much confidence
+32,Female,Ontario,Full time employment,2.0,0.0,2,5,4,5.0,4,4,Very badly,No confidence at all
+60,Female,Quebec / Québec,Retired,3.0,0.0,7,5,5,5.0,4,5,Somewhat well,A fair amount of confidence
+56,Female,Manitoba,Part time employment,5.0,0.0,1,1,1,1.0,1,1,Very badly,No confidence at all
+26,Female,Saskatchewan,Part time employment,1.0,0.0,4,6,5,5.0,4,4,Somewhat badly,A fair amount of confidence
+57,Female,Ontario,Other,3.0,0.0,6,6,5,5.0,5,4,Somewhat well,A fair amount of confidence
+46,Male,Ontario,Full time employment,5.0,3.0,4,4,5,5.0,5,4,Somewhat well,A fair amount of confidence
+61,Male,Quebec / Québec,Retired,2.0,0.0,5,2,5,,5,5,Very well,A fair amount of confidence
+61,Male,Ontario,Retired,1.0,0.0,4,3,5,4.0,4,5,Somewhat well,A fair amount of confidence
+32,Female,Quebec / Québec,Full time employment,1.0,0.0,1,6,5,4.0,1,5,Very badly,No confidence at all
+78,Male,Ontario,Retired,2.0,0.0,5,1,5,5.0,4,4,Somewhat well,A fair amount of confidence
+38,Male,Ontario,Full time employment,4.0,2.0,7,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+75,Male,Quebec / Québec,Retired,2.0,0.0,3,2,5,5.0,5,3,Don't know,A fair amount of confidence
+31,Female,Quebec / Québec,Full time student,2.0,1.0,3,4,4,5.0,5,5,Very badly,Not very much confidence
+71,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,7,2,5,5.0,4,5,Somewhat well,A lot of confidence
+36,Female,Quebec / Québec,Full time employment,1.0,0.0,3,5,5,4.0,2,5,Very badly,Not very much confidence
+56,Female,Manitoba,Part time employment,4.0,0.0,1,1,1,5.0,1,1,Very badly,No confidence at all
+39,Male,Ontario,Not working,1.0,0.0,1,1,5,5.0,5,5,Very badly,No confidence at all
+29,Female,Ontario,Full time employment,8.0,,3,5,4,,1,4,Very badly,Don't know
+69,Female,Alberta,Retired,2.0,0.0,4,1,5,4.0,4,5,Very badly,Not very much confidence
+23,Male,Quebec / Québec,Full time student,4.0,1.0,4,4,3,3.0,3,3,Somewhat badly,Don't know
+76,Female,Alberta,Retired,2.0,0.0,5,4,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+45,Male,Saskatchewan,Full time employment,2.0,0.0,1,1,5,5.0,5,5,Very well,A lot of confidence
+45,Female,Ontario,Other,8.0,3.0,1,1,1,4.0,1,1,Very badly,No confidence at all
+44,Female,Quebec / Québec,Full time employment,2.0,2.0,5,4,5,4.0,4,5,Somewhat well,A fair amount of confidence
+34,Female,Ontario,Not working,5.0,3.0,3,2,5,4.0,5,5,Somewhat well,A fair amount of confidence
+31,Male,Ontario,Full time employment,3.0,1.0,4,5,5,5.0,5,5,Very well,A lot of confidence
+71,Male,Quebec / Québec,Part time employment,1.0,0.0,6,6,5,,5,5,Somewhat well,A fair amount of confidence
+50,Male,Ontario,Full time employment,2.0,1.0,5,5,5,3.0,4,5,Somewhat well,A fair amount of confidence
+70,Male,Ontario,Retired,2.0,0.0,7,4,5,,4,5,Somewhat badly,Not very much confidence
+29,Male,New Brunswick / Nouveau-Brunswick,Full time employment,8.0,5.0,5,6,4,5.0,4,5,Somewhat well,Not very much confidence
+22,Female,Ontario,Part time employment,4.0,0.0,5,3,5,,4,4,Somewhat well,Not very much confidence
+60,Female,Ontario,Not working,4.0,4.0,5,4,5,,5,5,Somewhat well,A fair amount of confidence
+69,Male,Ontario,Retired,3.0,1.0,5,5,5,5.0,5,5,Very well,A lot of confidence
+65,Male,Ontario,Part time employment,2.0,0.0,5,1,1,5.0,5,1,Somewhat badly,A lot of confidence
+78,Male,Ontario,Retired,1.0,0.0,6,4,5,5.0,5,5,Very well,A lot of confidence
+75,Male,Saskatchewan,Retired,2.0,0.0,5,4,3,5.0,5,5,Somewhat well,A fair amount of confidence
+60,Male,Ontario,Retired,5.0,5.0,6,5,5,4.0,5,5,Somewhat well,A fair amount of confidence
+61,Male,Quebec / Québec,Full time employment,3.0,0.0,2,4,4,4.0,4,2,Somewhat badly,Don't know
+31,Female,Manitoba,Full time employment,4.0,0.0,6,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+36,Male,Ontario,Unemployed,4.0,1.0,1,2,5,5.0,3,5,Very badly,Not very much confidence
+66,Male,Ontario,Retired,2.0,0.0,3,3,5,5.0,5,5,Very well,A lot of confidence
+69,Female,Quebec / Québec,Retired,2.0,0.0,7,7,5,5.0,4,5,Somewhat well,A fair amount of confidence
+56,Male,Quebec / Québec,Unemployed,1.0,0.0,1,1,5,4.0,4,5,Somewhat well,Not very much confidence
+50,Female,New Brunswick / Nouveau-Brunswick,Unemployed,2.0,0.0,6,3,5,,3,4,Very badly,Not very much confidence
+72,Female,Alberta,Not working,,0.0,6,4,5,5.0,5,5,Somewhat well,A lot of confidence
+35,Male,Ontario,Other,1.0,0.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+33,Female,Quebec / Québec,Full time employment,1.0,0.0,1,3,3,4.0,4,5,Somewhat badly,Not very much confidence
+53,Male,Ontario,Full time employment,3.0,1.0,2,2,5,5.0,5,5,Somewhat well,A lot of confidence
+67,Female,Ontario,Part time employment,2.0,0.0,4,5,5,5.0,3,1,Very badly,No confidence at all
+18,Male,Ontario,Full time employment,,0.0,4,3,5,,5,5,Don't know,Don't know
+46,Female,Alberta,Unemployed,1.0,0.0,1,6,1,2.0,1,1,Very badly,No confidence at all
+24,Female,Quebec / Québec,Full time student,2.0,0.0,3,7,4,5.0,5,5,Somewhat well,A lot of confidence
+37,Male,Quebec / Québec,Full time employment,6.0,0.0,6,2,4,4.0,4,3,Somewhat badly,A lot of confidence
+43,Female,Ontario,Not working,5.0,5.0,6,2,5,5.0,5,5,Very well,A fair amount of confidence
+48,Female,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,2,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+37,Female,Ontario,Other,3.0,0.0,5,1,5,5.0,4,5,Very badly,Not very much confidence
+55,Male,Alberta,Other,2.0,0.0,1,1,2,5.0,4,5,Very badly,Don't know
+20,Female,Quebec / Québec,Full time employment,,0.0,1,4,4,,4,4,Very badly,No confidence at all
+68,Male,Nova Scotia / Nouvelle-Écosse,Retired,2.0,0.0,6,2,5,4.0,3,4,Somewhat well,A fair amount of confidence
+48,Male,Quebec / Québec,Full time employment,4.0,2.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+33,Male,Prince Edward Island / Île-du-Prince-Édouard,Full time employment,3.0,1.0,1,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+60,Male,Quebec / Québec,Full time employment,2.0,0.0,5,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+29,Female,Quebec / Québec,Not working,4.0,2.0,2,2,1,4.0,4,5,Very badly,Not very much confidence
+73,Male,Ontario,Retired,2.0,0.0,3,3,5,5.0,5,5,Somewhat well,A lot of confidence
+71,Female,British Columbia / Colombie Britanique,Retired,3.0,0.0,1,1,5,,4,5,Very badly,No confidence at all
+59,Female,Quebec / Québec,Retired,2.0,0.0,3,5,4,4.0,4,5,Somewhat well,A fair amount of confidence
+71,Male,Ontario,Retired,2.0,2.0,7,3,5,,5,5,Very well,A lot of confidence
+20,Male,Alberta,Other,,,7,7,5,5.0,5,5,Don't know,Don't know
+25,Male,Ontario,Full time employment,1.0,0.0,3,5,5,4.0,4,5,Very well,A fair amount of confidence
+52,Male,Quebec / Québec,Full time employment,4.0,1.0,6,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+31,Male,British Columbia / Colombie Britanique,Full time employment,5.0,5.0,1,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+79,Male,Quebec / Québec,Retired,2.0,0.0,3,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+35,Male,Quebec / Québec,Full time student,1.0,0.0,1,1,1,5.0,5,5,Somewhat well,A fair amount of confidence
+56,Male,Manitoba,Full time employment,2.0,0.0,1,2,1,3.0,2,1,Very badly,No confidence at all
+33,Male,Ontario,Full time employment,2.0,0.0,4,4,5,5.0,2,5,Somewhat badly,A fair amount of confidence
+45,Male,Quebec / Québec,Full time employment,5.0,5.0,7,7,5,5.0,5,5,Somewhat well,A lot of confidence
+29,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Unemployed,2.0,0.0,2,2,4,4.0,4,4,Somewhat well,A fair amount of confidence
+25,Female,Prince Edward Island / Île-du-Prince-Édouard,Other,3.0,0.0,6,7,3,2.0,2,2,Very well,A lot of confidence
+71,Female,Ontario,Part time employment,1.0,0.0,7,1,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+23,Female,British Columbia / Colombie Britanique,Part time employment,,2.0,4,1,5,3.0,3,3,Somewhat well,A fair amount of confidence
+26,Male,Ontario,Unemployed,2.0,0.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+59,Female,British Columbia / Colombie Britanique,Not working,1.0,0.0,7,3,5,5.0,4,5,Somewhat well,A lot of confidence
+59,Male,Ontario,Other,2.0,2.0,1,1,4,5.0,1,3,Very badly,Don't know
+69,Female,Ontario,Retired,4.0,1.0,7,3,5,5.0,5,5,Very well,A fair amount of confidence
+34,Female,Quebec / Québec,Full time employment,4.0,2.0,3,5,4,5.0,5,5,Somewhat well,A lot of confidence
+50,Female,British Columbia / Colombie Britanique,Unemployed,1.0,0.0,7,7,5,5.0,5,1,Somewhat badly,Not very much confidence
+51,Male,Alberta,Full time employment,4.0,0.0,3,5,4,5.0,4,5,Somewhat well,A fair amount of confidence
+27,Female,Ontario,Not working,6.0,1.0,1,1,5,5.0,1,5,Very badly,No confidence at all
+60,Female,Quebec / Québec,Retired,1.0,0.0,3,3,5,5.0,5,5,Very well,A fair amount of confidence
+68,Male,Quebec / Québec,Retired,2.0,0.0,5,4,5,5.0,5,5,Very well,A lot of confidence
+36,Female,Quebec / Québec,Other,,,4,4,5,5.0,5,5,Don't know,Don't know
+46,Female,Quebec / Québec,Full time employment,5.0,2.0,4,3,4,4.0,4,4,Somewhat badly,Not very much confidence
+21,Female,Ontario,Full time student,5.0,1.0,7,3,4,5.0,5,5,Somewhat well,A fair amount of confidence
+52,Female,Quebec / Québec,Not working,1.0,0.0,4,3,5,5.0,5,5,Somewhat badly,Not very much confidence
+42,Female,Alberta,Full time employment,4.0,2.0,3,1,5,5.0,5,5,Very badly,Not very much confidence
+49,Male,Saskatchewan,Unemployed,1.0,0.0,4,4,5,2.0,1,5,Somewhat badly,Not very much confidence
+45,Male,Alberta,Not working,6.0,0.0,5,4,5,5.0,5,4,Somewhat well,A fair amount of confidence
+68,Female,Nova Scotia / Nouvelle-Écosse,Retired,2.0,0.0,2,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+71,Male,Ontario,Retired,2.0,0.0,2,2,5,5.0,5,5,Somewhat well,A lot of confidence
+59,Female,Quebec / Québec,Part time employment,2.0,0.0,7,7,5,4.0,5,5,Somewhat well,A fair amount of confidence
+35,Male,Ontario,Other,,,4,4,1,5.0,5,3,Somewhat well,A fair amount of confidence
+33,Female,Quebec / Québec,Unemployed,1.0,0.0,3,2,5,5.0,5,5,Somewhat badly,Not very much confidence
+31,Male,Ontario,Full time employment,3.0,1.0,5,6,5,5.0,5,5,Very well,A lot of confidence
+75,Male,Quebec / Québec,Retired,2.0,0.0,5,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+61,Female,British Columbia / Colombie Britanique,Not working,2.0,0.0,6,3,1,5.0,4,5,Somewhat well,A fair amount of confidence
+59,Male,Quebec / Québec,Part time employment,2.0,0.0,4,4,5,5.0,5,5,Very badly,Not very much confidence
+63,Female,British Columbia / Colombie Britanique,Part time employment,1.0,1.0,7,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+40,Male,Quebec / Québec,Unemployed,2.0,1.0,3,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+38,Male,Ontario,Full time employment,5.0,5.0,5,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+51,Male,Quebec / Québec,Retired,2.0,0.0,7,1,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+63,Female,Quebec / Québec,Retired,2.0,0.0,6,3,5,5.0,5,5,Somewhat badly,Not very much confidence
+32,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,5,6,5,5.0,5,4,Somewhat badly,Not very much confidence
+20,Female,Quebec / Québec,Other,,1.0,1,1,1,2.0,2,1,Don't know,Don't know
+79,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,3,3,5,5.0,5,4,Somewhat well,A fair amount of confidence
+34,Female,Quebec / Québec,Not working,3.0,1.0,1,5,4,4.0,4,4,Somewhat well,A fair amount of confidence
+68,Female,Quebec / Québec,Retired,2.0,2.0,7,3,5,5.0,5,5,Very well,A lot of confidence
+71,Male,Alberta,Retired,2.0,0.0,1,7,5,4.0,3,1,Very badly,No confidence at all
+55,Female,Quebec / Québec,Not working,2.0,0.0,7,1,5,5.0,5,5,Very well,A lot of confidence
+18,Female,British Columbia / Colombie Britanique,Part time employment,6.0,2.0,1,7,5,5.0,5,5,Very badly,Not very much confidence
+39,Female,Quebec / Québec,Full time employment,4.0,4.0,3,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+29,Male,Ontario,Full time employment,1.0,0.0,7,5,4,5.0,4,5,Somewhat well,A lot of confidence
+73,Male,Alberta,Retired,2.0,0.0,3,2,5,,4,5,Somewhat well,A fair amount of confidence
+72,Female,Prince Edward Island / Île-du-Prince-Édouard,Retired,2.0,0.0,2,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+69,Male,Quebec / Québec,Retired,2.0,0.0,2,3,5,4.0,4,4,Somewhat well,A fair amount of confidence
+23,Male,Ontario,Full time employment,2.0,0.0,4,7,4,3.0,5,5,Somewhat well,A lot of confidence
+22,Male,Alberta,Full time student,5.0,2.0,3,1,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+66,Male,Ontario,Part time employment,2.0,0.0,5,3,5,,5,5,Somewhat well,A fair amount of confidence
+60,Male,Ontario,Full time employment,2.0,0.0,5,6,5,4.0,3,5,Somewhat well,A fair amount of confidence
+21,Male,Ontario,Other,5.0,0.0,4,3,4,4.0,4,4,Somewhat well,A fair amount of confidence
+56,Female,British Columbia / Colombie Britanique,Not working,3.0,0.0,2,2,5,5.0,5,4,Somewhat well,A fair amount of confidence
+36,Female,Saskatchewan,Part time employment,2.0,0.0,4,4,3,4.0,2,4,Somewhat badly,Not very much confidence
+79,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,2,2,5,5.0,5,4,Somewhat well,A fair amount of confidence
+65,Male,Ontario,Retired,2.0,0.0,3,5,4,,2,1,Somewhat well,Not very much confidence
+31,Male,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,2,2,5,4.0,5,5,Somewhat well,A fair amount of confidence
+41,Female,Alberta,Part time employment,4.0,1.0,4,5,5,5.0,4,5,Somewhat badly,No confidence at all
+32,Male,Nova Scotia / Nouvelle-Écosse,Unemployed,1.0,1.0,7,4,4,5.0,5,5,Somewhat badly,A fair amount of confidence
+32,Male,Alberta,Unemployed,4.0,0.0,7,3,5,5.0,4,5,Very badly,Not very much confidence
+52,Male,Ontario,Not working,2.0,0.0,2,2,1,4.0,4,5,Very badly,Not very much confidence
+31,Male,Ontario,Not working,2.0,0.0,3,4,5,5.0,5,4,Somewhat badly,Not very much confidence
+51,Male,Ontario,Full time employment,5.0,1.0,1,7,3,5.0,3,5,Very badly,No confidence at all
+50,Female,Quebec / Québec,Full time employment,3.0,0.0,6,5,5,4.0,5,5,Somewhat well,Not very much confidence
+29,Male,Ontario,Full time employment,3.0,3.0,1,7,5,5.0,5,5,Very well,A lot of confidence
+59,Male,Ontario,Unemployed,4.0,0.0,1,4,5,5.0,3,5,Somewhat well,A fair amount of confidence
+33,Male,Ontario,Unemployed,1.0,0.0,4,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+49,Female,British Columbia / Colombie Britanique,Part time employment,2.0,1.0,1,1,5,5.0,4,5,Somewhat well,A lot of confidence
+21,Male,New Brunswick / Nouveau-Brunswick,Full time employment,1.0,0.0,7,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+68,Male,Quebec / Québec,Retired,3.0,0.0,5,3,5,,4,5,Somewhat well,A fair amount of confidence
+41,Female,Ontario,Not working,4.0,2.0,2,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+47,Female,Manitoba,Part time employment,1.0,0.0,7,2,5,5.0,5,5,Very well,A lot of confidence
+39,Female,Quebec / Québec,Part time employment,5.0,2.0,1,7,5,,3,1,Very badly,No confidence at all
+74,Male,Ontario,Retired,2.0,0.0,2,2,1,1.0,1,1,Somewhat well,A fair amount of confidence
+72,Female,Alberta,Retired,2.0,0.0,6,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+22,Male,Ontario,Full time student,8.0,5.0,7,1,4,5.0,5,5,Very badly,Don't know
+70,Male,Manitoba,Retired,2.0,0.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+45,Female,Ontario,Full time employment,4.0,2.0,3,4,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+67,Female,Ontario,Retired,2.0,0.0,6,4,5,,5,5,Somewhat well,A fair amount of confidence
+31,Female,Quebec / Québec,Other,4.0,2.0,2,2,5,4.0,4,5,Very badly,Not very much confidence
+67,Female,Alberta,Retired,1.0,0.0,7,3,5,4.0,5,5,Somewhat well,A lot of confidence
+56,Female,Quebec / Québec,Unemployed,3.0,0.0,7,6,5,5.0,5,5,Somewhat well,A lot of confidence
+42,Female,Quebec / Québec,Full time employment,3.0,1.0,4,1,4,5.0,5,5,Somewhat badly,A lot of confidence
+49,Female,Ontario,Full time employment,1.0,0.0,4,5,5,5.0,4,5,Somewhat badly,Don't know
+34,Male,Ontario,Full time employment,4.0,2.0,3,3,4,4.0,4,4,Somewhat badly,A fair amount of confidence
+36,Male,British Columbia / Colombie Britanique,Full time employment,2.0,2.0,5,6,3,3.0,4,2,Somewhat well,A fair amount of confidence
+62,Female,Manitoba,Retired,2.0,0.0,3,2,5,5.0,5,1,Very well,A lot of confidence
+43,Female,British Columbia / Colombie Britanique,Unemployed,3.0,3.0,5,4,5,,5,5,Somewhat well,A fair amount of confidence
+71,Female,Alberta,Retired,2.0,0.0,4,5,5,,4,5,Somewhat badly,Not very much confidence
+26,Female,Quebec / Québec,Other,,0.0,4,3,5,5.0,5,4,Somewhat badly,Not very much confidence
+54,Female,Ontario,Part time employment,3.0,1.0,1,1,1,5.0,3,1,Very badly,No confidence at all
+56,Male,Ontario,Full time employment,3.0,0.0,1,1,3,,1,2,Somewhat badly,Not very much confidence
+57,Male,Saskatchewan,Not working,3.0,0.0,4,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+51,Female,British Columbia / Colombie Britanique,Not working,2.0,0.0,6,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+21,Male,British Columbia / Colombie Britanique,Full time student,6.0,2.0,2,4,4,3.0,3,3,Somewhat well,A fair amount of confidence
+79,Female,Ontario,Retired,1.0,0.0,1,1,5,5.0,3,1,Somewhat well,A fair amount of confidence
+54,Female,New Brunswick / Nouveau-Brunswick,Not working,2.0,0.0,7,7,3,,5,5,Don't know,A lot of confidence
+49,Female,Quebec / Québec,Not working,2.0,1.0,1,2,5,4.0,4,4,Very badly,No confidence at all
+28,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,7,7,5,5.0,5,5,Very badly,Not very much confidence
+68,Female,Saskatchewan,Retired,2.0,0.0,6,2,5,,4,5,Somewhat well,A fair amount of confidence
+62,Male,Ontario,Retired,2.0,0.0,3,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+63,Male,Quebec / Québec,Retired,2.0,0.0,2,4,5,,5,5,Somewhat well,A fair amount of confidence
+29,Male,Ontario,Full time employment,3.0,1.0,3,4,4,5.0,4,4,Very badly,No confidence at all
+44,Female,Quebec / Québec,Full time employment,2.0,1.0,2,7,4,4.0,4,4,Somewhat well,A fair amount of confidence
+56,Female,British Columbia / Colombie Britanique,Not working,3.0,0.0,2,2,5,5.0,5,4,Somewhat well,A fair amount of confidence
+64,Male,Ontario,Retired,2.0,0.0,2,3,5,4.0,4,5,Somewhat well,A fair amount of confidence
+28,Male,Ontario,Full time employment,4.0,0.0,3,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+61,Female,Manitoba,Retired,2.0,0.0,4,3,5,5.0,3,5,Don't know,Don't know
+71,Female,Quebec / Québec,Retired,2.0,0.0,1,1,1,3.0,1,2,Somewhat badly,Not very much confidence
+32,Female,Ontario,Full time employment,1.0,0.0,1,1,4,5.0,5,5,Don't know,A lot of confidence
+59,Female,Quebec / Québec,Full time employment,2.0,0.0,4,2,5,5.0,1,1,Somewhat well,A fair amount of confidence
+28,Female,Ontario,Full time employment,3.0,0.0,2,4,3,5.0,4,4,Somewhat well,A fair amount of confidence
+39,Male,Ontario,Full time employment,2.0,1.0,7,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+59,Female,British Columbia / Colombie Britanique,Retired,2.0,0.0,5,7,4,,5,3,Very well,A lot of confidence
+65,Male,Ontario,Retired,1.0,0.0,1,1,5,2.0,2,5,Somewhat well,A fair amount of confidence
+73,Male,Ontario,Retired,1.0,0.0,5,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+35,Female,New Brunswick / Nouveau-Brunswick,Full time employment,3.0,1.0,1,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+26,Female,Quebec / Québec,Full time employment,2.0,2.0,3,7,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+40,Male,Manitoba,Full time employment,,1.0,1,4,1,,1,1,Very badly,No confidence at all
+66,Male,Quebec / Québec,Retired,2.0,0.0,6,4,5,4.0,5,5,Somewhat well,A fair amount of confidence
+44,Male,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,7,1,5,5.0,5,5,Very badly,No confidence at all
+66,Female,Ontario,Other,,0.0,7,2,5,5.0,5,5,Very well,A fair amount of confidence
+75,Male,Saskatchewan,Retired,2.0,0.0,7,4,1,5.0,5,5,Somewhat well,No confidence at all
+63,Female,British Columbia / Colombie Britanique,Part time employment,1.0,0.0,7,1,5,5.0,5,5,Somewhat well,Not very much confidence
+31,Female,Alberta,Full time employment,,,1,1,4,5.0,5,4,Very badly,No confidence at all
+41,Female,Quebec / Québec,Part time employment,4.0,2.0,4,6,5,4.0,4,5,Somewhat well,A lot of confidence
+44,Male,Ontario,Part time employment,1.0,0.0,5,6,5,4.0,4,3,Somewhat well,A fair amount of confidence
+74,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,6,3,5,4.0,3,5,Very well,A fair amount of confidence
+58,Female,Quebec / Québec,Full time employment,3.0,0.0,5,6,5,3.0,5,5,Somewhat well,A fair amount of confidence
+55,Female,British Columbia / Colombie Britanique,Not working,,,7,6,5,,5,5,Don't know,Not very much confidence
+50,Female,Quebec / Québec,Full time employment,3.0,0.0,1,1,4,4.0,4,4,Somewhat badly,No confidence at all
+20,Male,British Columbia / Colombie Britanique,Full time student,4.0,0.0,3,5,5,4.0,3,5,Very badly,No confidence at all
+68,Male,Quebec / Québec,Part time employment,2.0,0.0,6,1,5,5.0,5,5,Somewhat badly,Not very much confidence
+42,Female,Quebec / Québec,Full time employment,4.0,0.0,1,1,1,1.0,1,1,Don't know,Don't know
+31,Female,Ontario,Full time employment,3.0,1.0,5,4,5,5.0,5,5,Somewhat well,A lot of confidence
+71,Female,Saskatchewan,Retired,1.0,0.0,6,1,1,5.0,4,1,Somewhat well,A fair amount of confidence
+39,Male,Ontario,Full time employment,4.0,2.0,4,4,1,,3,4,Don't know,No confidence at all
+48,Male,Quebec / Québec,Full time employment,3.0,1.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+65,Female,Nova Scotia / Nouvelle-Écosse,Retired,2.0,0.0,3,5,4,,4,5,Somewhat well,A lot of confidence
+25,Male,Ontario,Full time employment,4.0,0.0,3,2,5,5.0,4,5,Very well,A lot of confidence
+49,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Retired,4.0,2.0,7,1,5,,5,5,Somewhat badly,Not very much confidence
+45,Male,New Brunswick / Nouveau-Brunswick,Full time employment,3.0,2.0,1,4,1,,1,1,Very badly,Not very much confidence
+41,Female,Nova Scotia / Nouvelle-Écosse,Retired,4.0,1.0,3,4,5,5.0,4,4,Somewhat well,A fair amount of confidence
+22,Male,British Columbia / Colombie Britanique,Part time employment,3.0,0.0,1,2,1,4.0,5,4,Somewhat well,A lot of confidence
+34,Male,Ontario,Full time employment,7.0,2.0,5,6,4,,5,4,Somewhat well,A fair amount of confidence
+61,Female,Alberta,Retired,2.0,0.0,5,7,5,,5,5,Very badly,A fair amount of confidence
+68,Male,Quebec / Québec,Retired,2.0,0.0,6,1,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+57,Female,Ontario,Full time employment,3.0,1.0,5,5,5,5.0,5,5,Very well,A fair amount of confidence
+76,Male,Ontario,Full time employment,2.0,0.0,7,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+19,Female,Quebec / Québec,Full time employment,1.0,0.0,4,5,4,2.0,5,2,Very badly,No confidence at all
+58,Male,Ontario,Retired,1.0,0.0,4,2,5,5.0,5,5,Somewhat badly,Not very much confidence
+42,Female,Ontario,Part time employment,2.0,1.0,6,5,1,4.0,4,5,Somewhat well,A fair amount of confidence
+70,Male,Quebec / Québec,Retired,2.0,0.0,7,7,5,,5,5,Somewhat well,A lot of confidence
+35,Male,Ontario,Full time employment,5.0,1.0,4,3,4,,3,3,Somewhat badly,Not very much confidence
+35,Female,Ontario,Full time employment,1.0,0.0,7,7,5,5.0,4,5,Somewhat well,A fair amount of confidence
+41,Female,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,3,7,5,5.0,5,5,Very badly,No confidence at all
+37,Female,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,4,7,5,5.0,5,5,Very well,A fair amount of confidence
+30,Male,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,1,1,3,,3,5,Somewhat badly,Not very much confidence
+26,Female,Quebec / Québec,Full time employment,,0.0,4,7,5,5.0,5,5,Somewhat badly,No confidence at all
+50,Female,Saskatchewan,Not working,3.0,2.0,4,4,5,5.0,5,5,Very badly,Not very much confidence
+45,Male,British Columbia / Colombie Britanique,Not working,,,3,5,5,5.0,5,4,Very badly,Don't know
+40,Male,Ontario,Other,4.0,0.0,7,1,5,5.0,2,5,Somewhat well,Not very much confidence
+74,Female,Nova Scotia / Nouvelle-Écosse,Part time employment,2.0,0.0,5,7,5,4.0,5,5,Somewhat badly,Not very much confidence
+72,Male,Saskatchewan,Retired,1.0,0.0,6,6,5,5.0,5,5,Very well,A lot of confidence
+26,Female,Alberta,Unemployed,3.0,0.0,3,5,5,4.0,4,4,Don't know,Don't know
+25,Female,Ontario,Part time employment,1.0,0.0,7,4,5,5.0,3,5,Somewhat badly,A fair amount of confidence
+35,Male,Ontario,Other,1.0,0.0,1,1,5,,1,5,Very well,A lot of confidence
+56,Male,Quebec / Québec,Retired,2.0,0.0,1,1,3,1.0,1,1,Very badly,No confidence at all
+41,Male,Ontario,Full time employment,4.0,2.0,1,3,2,3.0,1,3,Very badly,No confidence at all
+20,Male,Saskatchewan,Unemployed,5.0,4.0,7,6,5,5.0,5,5,Very badly,Not very much confidence
+38,Male,Ontario,Full time employment,5.0,3.0,4,7,3,5.0,5,5,Somewhat well,A fair amount of confidence
+19,Male,Ontario,Full time student,5.0,1.0,2,5,4,5.0,3,3,Somewhat badly,Not very much confidence
+19,Male,Alberta,Retired,7.0,2.0,3,3,4,4.0,4,4,Don't know,Don't know
+39,Male,Alberta,Full time employment,3.0,1.0,7,1,5,5.0,3,5,Very well,A fair amount of confidence
+22,Female,Ontario,Full time employment,3.0,0.0,1,4,5,5.0,4,3,Somewhat well,Not very much confidence
+41,Male,Yukon,Full time employment,2.0,0.0,2,3,5,5.0,5,5,Somewhat badly,Not very much confidence
+66,Male,Ontario,Retired,4.0,4.0,5,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+65,Male,Ontario,Full time employment,3.0,0.0,7,7,4,,5,2,Somewhat well,A fair amount of confidence
+21,Male,Ontario,Full time student,6.0,0.0,3,3,5,4.0,4,5,Somewhat badly,Not very much confidence
+75,Male,Ontario,Retired,2.0,0.0,5,3,5,5.0,5,5,Somewhat well,Not very much confidence
+22,Female,Quebec / Québec,Other,,0.0,1,1,1,5.0,5,5,Don't know,Don't know
+76,Female,Ontario,Retired,1.0,0.0,5,5,5,5.0,3,4,Somewhat well,A fair amount of confidence
+37,Female,Quebec / Québec,Part time employment,3.0,2.0,3,7,5,,4,4,Very badly,No confidence at all
+78,Female,Ontario,Retired,1.0,0.0,4,1,5,5.0,4,4,Don't know,Don't know
+56,Female,New Brunswick / Nouveau-Brunswick,Part time employment,1.0,0.0,6,6,5,4.0,5,4,Somewhat badly,A fair amount of confidence
+19,Female,Ontario,Full time student,,,6,1,4,5.0,4,5,Somewhat well,Don't know
+21,Male,British Columbia / Colombie Britanique,Part time employment,6.0,0.0,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+54,Male,Ontario,Not working,4.0,4.0,3,2,5,3.0,1,1,Somewhat badly,Not very much confidence
+27,Female,Ontario,Full time student,2.0,0.0,2,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+37,Male,Alberta,Other,,,1,1,4,5.0,5,5,Very badly,No confidence at all
+26,Female,British Columbia / Colombie Britanique,Part time employment,1.0,0.0,3,4,5,4.0,4,5,Somewhat well,A fair amount of confidence
+20,Male,Ontario,Full time employment,3.0,0.0,1,1,5,5.0,5,5,Somewhat badly,Not very much confidence
+79,Male,Ontario,Retired,2.0,2.0,5,5,5,,5,5,Somewhat badly,A fair amount of confidence
+68,Male,Quebec / Québec,Retired,2.0,0.0,5,5,5,4.0,4,5,Somewhat well,A lot of confidence
+21,Male,Quebec / Québec,Not working,,5.0,5,2,4,4.0,4,3,Somewhat badly,Don't know
+66,Female,Ontario,Other,,0.0,7,2,5,5.0,5,5,Very well,A fair amount of confidence
+45,Female,Quebec / Québec,Full time employment,3.0,1.0,1,7,5,5.0,5,5,Very badly,No confidence at all
+64,Male,Quebec / Québec,Full time employment,2.0,0.0,4,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+30,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,3,4,5,5.0,5,2,Somewhat well,A fair amount of confidence
+52,Male,Ontario,Part time employment,4.0,1.0,1,1,5,5.0,1,1,Very badly,Not very much confidence
+59,Female,Alberta,Retired,2.0,0.0,4,6,1,5.0,4,4,Somewhat badly,A fair amount of confidence
+76,Female,Alberta,Retired,1.0,0.0,7,5,5,5.0,3,5,Somewhat badly,A fair amount of confidence
+38,Male,Ontario,Full time employment,2.0,2.0,7,7,4,4.0,4,4,Somewhat badly,A fair amount of confidence
+45,Male,British Columbia / Colombie Britanique,Full time employment,5.0,5.0,6,3,5,5.0,5,5,Don't know,Don't know
+50,Male,Ontario,Full time employment,4.0,1.0,1,1,1,2.0,1,1,Very badly,Not very much confidence
+50,Male,Ontario,Full time employment,3.0,3.0,3,3,5,5.0,4,4,Somewhat well,A fair amount of confidence
+58,Female,Alberta,Unemployed,2.0,2.0,7,3,5,4.0,4,1,Somewhat badly,Not very much confidence
+37,Female,Ontario,Full time employment,4.0,2.0,3,3,5,5.0,5,5,Somewhat well,Not very much confidence
+55,Male,Ontario,Full time employment,2.0,0.0,1,3,4,5.0,3,2,Very badly,Not very much confidence
+25,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,1,7,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+21,Male,Ontario,Full time employment,2.0,1.0,3,5,5,5.0,3,5,Somewhat well,A fair amount of confidence
+22,Female,Ontario,Unemployed,8.0,5.0,3,6,3,5.0,5,5,Somewhat well,A fair amount of confidence
+63,Female,British Columbia / Colombie Britanique,Part time employment,3.0,0.0,2,2,5,5.0,5,2,Very badly,No confidence at all
+74,Female,Ontario,Retired,2.0,0.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+68,Female,Quebec / Québec,Retired,1.0,0.0,2,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+50,Male,Ontario,Not working,2.0,0.0,5,1,5,4.0,5,4,Very well,A lot of confidence
+41,Male,Yukon,Full time employment,2.0,0.0,2,5,5,4.0,5,5,Somewhat badly,Not very much confidence
+67,Male,Alberta,Not working,2.0,0.0,7,4,5,,5,5,Very well,A lot of confidence
+84,Male,Ontario,Retired,2.0,0.0,4,1,5,,5,1,Somewhat well,A fair amount of confidence
+54,Female,Ontario,Full time employment,3.0,0.0,7,2,5,5.0,5,5,Very well,A lot of confidence
+36,Male,Ontario,Full time employment,2.0,0.0,4,6,4,4.0,3,5,Very badly,Not very much confidence
+52,Male,Ontario,Full time employment,4.0,2.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+69,Male,Saskatchewan,Retired,2.0,0.0,4,4,4,4.0,3,5,Very badly,No confidence at all
+52,Female,Alberta,Unemployed,2.0,0.0,4,4,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+71,Female,Quebec / Québec,Retired,2.0,0.0,1,2,1,3.0,1,1,Somewhat badly,Not very much confidence
+28,Female,Ontario,Full time employment,2.0,0.0,2,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+70,Male,Ontario,Retired,2.0,0.0,3,1,5,,3,5,Very well,A lot of confidence
+24,Male,British Columbia / Colombie Britanique,Unemployed,6.0,2.0,4,2,5,4.0,3,4,Very badly,Not very much confidence
+69,Male,Quebec / Québec,Retired,1.0,0.0,7,3,5,4.0,5,5,Somewhat well,A fair amount of confidence
+65,Male,Ontario,Retired,1.0,0.0,1,1,1,3.0,2,5,Somewhat well,A fair amount of confidence
+61,Female,British Columbia / Colombie Britanique,Not working,1.0,0.0,6,5,5,5.0,5,4,Somewhat well,A fair amount of confidence
+69,Male,Quebec / Québec,Retired,2.0,0.0,4,2,5,5.0,5,5,Very well,A lot of confidence
+61,Female,Ontario,Retired,5.0,1.0,3,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+65,Female,Alberta,Retired,1.0,0.0,5,5,5,5.0,1,5,Somewhat well,A fair amount of confidence
+71,Male,Ontario,Retired,3.0,0.0,7,4,5,4.0,3,5,Very well,A lot of confidence
+78,Female,Quebec / Québec,Retired,1.0,0.0,3,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+70,Female,Quebec / Québec,Part time employment,1.0,1.0,2,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+79,Female,British Columbia / Colombie Britanique,Retired,5.0,5.0,7,5,5,4.0,4,5,Somewhat well,A fair amount of confidence
+68,Female,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,4,3,5,5.0,5,4,Somewhat well,A fair amount of confidence
+71,Male,Ontario,Retired,2.0,0.0,6,3,5,5.0,5,5,Very well,A lot of confidence
+46,Female,Ontario,Part time employment,3.0,1.0,3,5,5,,4,5,Somewhat well,A lot of confidence
+21,Female,Manitoba,Full time student,5.0,0.0,3,4,5,5.0,4,4,Very well,A fair amount of confidence
+39,Male,Nova Scotia / Nouvelle-Écosse,Full time employment,3.0,1.0,3,4,5,5.0,4,5,Somewhat well,A fair amount of confidence
+37,Male,Ontario,Full time employment,3.0,2.0,1,7,1,,1,1,Very badly,No confidence at all
+69,Male,Ontario,Part time employment,1.0,0.0,1,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+42,Female,Quebec / Québec,Unemployed,3.0,3.0,4,3,5,5.0,4,4,Somewhat well,Not very much confidence
+72,Female,Ontario,Retired,1.0,0.0,2,2,5,,4,5,Somewhat well,A fair amount of confidence
+65,Male,Ontario,Retired,1.0,0.0,3,4,5,5.0,4,3,Very badly,No confidence at all
+73,Male,New Brunswick / Nouveau-Brunswick,Retired,5.0,0.0,7,2,3,,4,5,Somewhat well,A fair amount of confidence
+76,Female,Ontario,Retired,2.0,0.0,4,2,5,5.0,5,5,Somewhat well,A lot of confidence
+51,Female,British Columbia / Colombie Britanique,Not working,2.0,0.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+34,Male,Ontario,Full time employment,2.0,0.0,6,5,5,5.0,4,4,Somewhat badly,A fair amount of confidence
+56,Male,British Columbia / Colombie Britanique,Part time employment,2.0,0.0,5,2,4,,4,4,Somewhat well,A fair amount of confidence
+54,Female,Quebec / Québec,Full time employment,2.0,0.0,5,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+68,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,6,2,5,5.0,3,5,Very badly,No confidence at all
+26,Female,Ontario,Full time employment,1.0,0.0,2,4,5,,4,3,Somewhat badly,Not very much confidence
+36,Male,Ontario,Other,,,4,4,1,5.0,5,5,Don't know,Don't know
+68,Male,Ontario,Retired,2.0,2.0,3,3,5,4.0,4,5,Somewhat well,A fair amount of confidence
+71,Male,British Columbia / Colombie Britanique,Retired,2.0,0.0,4,3,4,4.0,3,5,Somewhat well,A fair amount of confidence
+50,Male,Alberta,Full time employment,3.0,1.0,2,6,1,,4,5,Somewhat badly,A fair amount of confidence
+79,Female,New Brunswick / Nouveau-Brunswick,Retired,2.0,0.0,3,3,5,5.0,5,5,Somewhat badly,Not very much confidence
+67,Female,Quebec / Québec,Part time employment,1.0,0.0,4,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+90,Male,Ontario,Retired,2.0,0.0,7,3,5,5.0,5,5,Very well,A lot of confidence
+70,Male,Saskatchewan,Retired,2.0,0.0,7,6,5,,5,5,Very well,A lot of confidence
+31,Male,Alberta,Full time employment,1.0,0.0,3,5,4,4.0,4,5,Somewhat well,Not very much confidence
+57,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,3.0,1.0,2,6,5,3.0,5,5,Somewhat badly,A fair amount of confidence
+79,Male,Manitoba,Retired,2.0,2.0,5,5,5,5.0,5,4,Very badly,Not very much confidence
+40,Male,Ontario,Full time employment,4.0,2.0,1,4,5,5.0,3,1,Very badly,Not very much confidence
+18,Male,Alberta,Part time employment,8.0,5.0,4,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+20,Female,Ontario,Full time student,4.0,0.0,4,3,5,5.0,5,5,Somewhat badly,Not very much confidence
+25,Male,Ontario,Part time employment,7.0,5.0,5,4,4,5.0,5,5,Somewhat badly,Not very much confidence
+40,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,4.0,2.0,5,3,4,3.0,4,5,Somewhat well,A fair amount of confidence
+37,Female,Ontario,Full time employment,1.0,0.0,6,2,1,5.0,1,5,Somewhat well,A fair amount of confidence
+50,Female,British Columbia / Colombie Britanique,Part time employment,2.0,0.0,1,7,5,5.0,3,5,Somewhat well,Not very much confidence
+74,Female,Quebec / Québec,Retired,1.0,0.0,6,5,5,5.0,5,5,Very well,A lot of confidence
+58,Male,Quebec / Québec,Not working,1.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+41,Male,Quebec / Québec,Full time employment,5.0,3.0,2,4,5,,5,4,Somewhat well,A fair amount of confidence
+76,Male,Saskatchewan,Retired,1.0,0.0,7,6,4,5.0,4,5,Somewhat well,A fair amount of confidence
+55,Male,Ontario,Unemployed,1.0,0.0,1,1,4,4.0,4,5,Very badly,No confidence at all
+57,Female,Ontario,Part time employment,2.0,0.0,2,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+19,Male,Ontario,Part time employment,6.0,1.0,3,4,4,4.0,5,2,Somewhat badly,Not very much confidence
+58,Male,Ontario,Retired,1.0,0.0,5,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+22,Female,Manitoba,Full time employment,2.0,0.0,3,3,5,5.0,2,5,Somewhat badly,Not very much confidence
+73,Male,Manitoba,Retired,2.0,2.0,5,2,5,5.0,5,5,Very badly,No confidence at all
+72,Male,Ontario,Retired,2.0,0.0,7,2,1,5.0,3,5,Very well,A lot of confidence
+57,Male,Manitoba,Retired,3.0,0.0,3,5,5,5.0,5,5,Somewhat badly,Not very much confidence
+59,Female,Ontario,Part time employment,4.0,0.0,4,5,5,5.0,5,5,Somewhat well,A lot of confidence
+45,Female,Alberta,Full time employment,5.0,5.0,3,7,5,5.0,5,4,Somewhat badly,Not very much confidence
+55,Male,Alberta,Part time employment,1.0,0.0,1,1,4,4.0,4,5,Somewhat well,A fair amount of confidence
+56,Male,Ontario,Unemployed,3.0,0.0,4,1,5,4.0,4,5,Somewhat well,A fair amount of confidence
+42,Female,Ontario,Part time employment,5.0,3.0,2,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+36,Female,Ontario,Not working,2.0,0.0,6,2,3,4.0,1,5,Somewhat badly,Not very much confidence
+20,Female,Ontario,Full time student,8.0,2.0,7,1,5,5.0,5,5,Somewhat well,A lot of confidence
+79,Male,Saskatchewan,Retired,1.0,0.0,6,4,4,,4,5,Somewhat badly,A fair amount of confidence
+73,Female,Quebec / Québec,Retired,2.0,0.0,7,2,1,5.0,3,5,Somewhat well,A fair amount of confidence
+58,Female,Quebec / Québec,Retired,2.0,0.0,1,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+50,Male,Ontario,Unemployed,1.0,0.0,4,1,4,5.0,5,5,Somewhat well,A fair amount of confidence
+59,Male,Alberta,Other,1.0,0.0,3,1,5,4.0,3,5,Don't know,A lot of confidence
+46,Female,British Columbia / Colombie Britanique,Not working,4.0,1.0,3,1,4,5.0,3,5,Somewhat well,A fair amount of confidence
+76,Male,Ontario,Retired,3.0,0.0,2,1,5,5.0,4,5,Very badly,Not very much confidence
+70,Male,Quebec / Québec,Retired,3.0,0.0,2,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+26,Female,Quebec / Québec,Full time employment,2.0,0.0,4,1,5,,5,5,Somewhat well,A fair amount of confidence
+61,Female,British Columbia / Colombie Britanique,Unemployed,1.0,0.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+62,Female,Ontario,Full time employment,1.0,0.0,7,7,1,4.0,4,5,Somewhat well,A fair amount of confidence
+22,Male,Ontario,Other,,0.0,1,1,1,1.0,1,3,Very badly,No confidence at all
+40,Female,Ontario,Not working,4.0,2.0,4,4,5,5.0,3,5,Somewhat badly,A fair amount of confidence
+40,Male,Ontario,Full time employment,1.0,0.0,7,6,5,5.0,5,5,Somewhat well,A lot of confidence
+69,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,7,6,5,5.0,4,5,Somewhat well,A fair amount of confidence
+30,Male,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,4,4,5,,5,5,Somewhat badly,Not very much confidence
+50,Female,Quebec / Québec,Other,2.0,0.0,3,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+39,Female,Quebec / Québec,Other,4.0,0.0,5,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+44,Male,British Columbia / Colombie Britanique,Full time employment,3.0,1.0,7,4,5,5.0,5,5,Very badly,No confidence at all
+65,Female,Saskatchewan,Retired,2.0,0.0,5,3,5,5.0,5,5,Somewhat badly,A fair amount of confidence
+33,Female,Ontario,Full time student,4.0,3.0,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+42,Male,Ontario,Full time employment,4.0,2.0,4,7,5,4.0,4,3,Somewhat badly,Not very much confidence
+57,Male,Quebec / Québec,Retired,4.0,1.0,2,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+36,Female,British Columbia / Colombie Britanique,Full time employment,4.0,2.0,5,3,5,5.0,4,5,Don't know,Don't know
+68,Female,Ontario,Retired,1.0,0.0,3,2,5,5.0,4,5,Somewhat badly,Not very much confidence
+54,Male,Ontario,Full time employment,4.0,1.0,5,7,5,4.0,4,5,Somewhat well,Not very much confidence
+76,Male,Alberta,Part time employment,4.0,0.0,5,3,4,5.0,5,4,Somewhat badly,Not very much confidence
+25,Female,Quebec / Québec,Full time student,1.0,0.0,1,4,5,5.0,5,5,Very badly,Not very much confidence
+74,Male,British Columbia / Colombie Britanique,Part time employment,2.0,0.0,3,1,2,3.0,3,3,Very well,A fair amount of confidence
+64,Female,Quebec / Québec,Not working,2.0,0.0,7,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+30,Female,Alberta,Full time employment,3.0,0.0,5,7,5,5.0,4,5,Somewhat badly,Not very much confidence
+31,Male,Alberta,Other,3.0,0.0,2,1,3,1.0,4,4,Very badly,No confidence at all
+47,Male,British Columbia / Colombie Britanique,Not working,6.0,3.0,5,2,4,2.0,3,4,Very badly,Don't know
+21,Female,Nova Scotia / Nouvelle-Écosse,Full time student,2.0,0.0,5,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+57,Male,Prince Edward Island / Île-du-Prince-Édouard,Unemployed,1.0,0.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+32,Male,Ontario,Full time employment,2.0,0.0,5,5,5,5.0,5,5,Somewhat well,A lot of confidence
+41,Female,Alberta,Unemployed,2.0,0.0,3,6,4,3.0,3,5,Somewhat badly,A lot of confidence
+51,Male,Alberta,Retired,5.0,2.0,7,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+29,Male,Alberta,Unemployed,,,5,5,1,2.0,3,1,Very badly,A fair amount of confidence
+71,Male,British Columbia / Colombie Britanique,Retired,1.0,0.0,7,6,5,4.0,5,5,Somewhat well,A fair amount of confidence
+69,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,4,4,4,,3,5,Very well,A fair amount of confidence
+62,Female,Ontario,Full time employment,1.0,0.0,6,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+26,Female,Ontario,Full time student,2.0,0.0,3,6,5,5.0,3,5,Very badly,No confidence at all
+65,Male,Quebec / Québec,Retired,2.0,0.0,1,1,5,,5,5,Very well,A lot of confidence
+68,Female,Quebec / Québec,Retired,2.0,0.0,4,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+22,Female,Quebec / Québec,Full time employment,2.0,0.0,4,5,5,5.0,5,5,Somewhat badly,Not very much confidence
+67,Female,Quebec / Québec,Retired,2.0,0.0,4,1,5,5.0,5,5,Very badly,No confidence at all
+45,Male,Ontario,Full time employment,2.0,0.0,1,5,5,5.0,4,1,Very badly,No confidence at all
+63,Female,Ontario,Retired,2.0,0.0,1,1,4,5.0,1,1,Very badly,No confidence at all
+51,Female,Ontario,Part time employment,4.0,0.0,1,1,5,,1,5,Very badly,No confidence at all
+55,Male,Quebec / Québec,Full time employment,3.0,3.0,2,4,5,4.0,4,5,Somewhat badly,A lot of confidence
+21,Male,British Columbia / Colombie Britanique,Other,,,3,3,4,4.0,3,4,Don't know,A fair amount of confidence
+25,Male,Ontario,Unemployed,,0.0,1,1,5,5.0,5,5,Very badly,No confidence at all
+43,Male,Quebec / Québec,Full time student,3.0,1.0,4,4,5,5.0,4,4,Somewhat well,Not very much confidence
+52,Male,Ontario,Unemployed,4.0,1.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+32,Male,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,3.0,0.0,3,5,4,4.0,3,1,Very badly,Not very much confidence
+79,Male,Quebec / Québec,Retired,2.0,0.0,3,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+69,Female,Quebec / Québec,Unemployed,2.0,0.0,7,5,5,4.0,4,5,Somewhat well,A fair amount of confidence
+23,Male,British Columbia / Colombie Britanique,Unemployed,6.0,0.0,6,5,3,5.0,5,5,Somewhat well,Not very much confidence
+78,Female,Ontario,Retired,2.0,0.0,7,6,5,5.0,2,5,Somewhat badly,A fair amount of confidence
+66,Female,Quebec / Québec,Retired,2.0,0.0,3,4,5,,4,5,Somewhat well,A fair amount of confidence
+56,Female,Quebec / Québec,Unemployed,3.0,0.0,4,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+43,Male,Ontario,Full time employment,5.0,3.0,7,7,5,5.0,5,5,Very badly,No confidence at all
+44,Female,Alberta,Full time employment,2.0,0.0,3,7,4,5.0,5,4,Very well,A fair amount of confidence
+51,Male,Quebec / Québec,Retired,2.0,0.0,7,2,5,,5,5,Somewhat well,A fair amount of confidence
+46,Male,Quebec / Québec,Full time employment,2.0,2.0,7,7,5,,5,5,Somewhat well,A lot of confidence
+75,Male,Saskatchewan,Retired,2.0,2.0,5,4,2,5.0,5,5,Somewhat badly,A fair amount of confidence
+47,Male,Ontario,Retired,5.0,0.0,6,5,5,5.0,5,3,Somewhat well,A fair amount of confidence
+46,Male,Ontario,Part time employment,1.0,0.0,7,3,5,5.0,5,5,Somewhat badly,Not very much confidence
+35,Male,Ontario,Other,1.0,0.0,1,1,2,5.0,1,1,Very badly,No confidence at all
+67,Male,Ontario,Retired,2.0,0.0,7,5,5,5.0,5,4,Somewhat well,A fair amount of confidence
+65,Female,Nova Scotia / Nouvelle-Écosse,Retired,1.0,0.0,1,1,3,5.0,4,4,Very badly,No confidence at all
+39,Female,Ontario,Full time employment,4.0,2.0,7,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+77,Female,Ontario,Full time employment,1.0,0.0,6,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+30,Female,Prince Edward Island / Île-du-Prince-Édouard,Part time employment,2.0,0.0,4,4,4,4.0,4,5,Somewhat well,A fair amount of confidence
+66,Female,Ontario,Retired,2.0,0.0,3,4,5,,4,5,Very well,A lot of confidence
+64,Female,Quebec / Québec,Retired,1.0,0.0,4,2,5,4.0,5,5,Don't know,Don't know
+51,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Full time employment,1.0,1.0,3,5,5,5.0,3,3,Somewhat well,A fair amount of confidence
+24,Female,Ontario,Other,,,4,4,1,1.0,1,1,Don't know,Don't know
+45,Male,British Columbia / Colombie Britanique,Full time employment,6.0,5.0,2,6,5,5.0,5,5,Very badly,Not very much confidence
+41,Female,Ontario,Full time employment,3.0,1.0,5,7,5,5.0,5,5,Somewhat badly,Not very much confidence
+40,Male,Ontario,Full time employment,1.0,0.0,3,1,5,5.0,5,5,Somewhat well,Not very much confidence
+41,Female,Ontario,Unemployed,4.0,1.0,7,1,5,5.0,5,5,Somewhat well,A lot of confidence
+78,Female,Alberta,Retired,1.0,0.0,1,1,1,5.0,1,5,Very badly,Not very much confidence
+21,Female,British Columbia / Colombie Britanique,Full time student,2.0,1.0,3,4,5,3.0,4,4,Somewhat well,A fair amount of confidence
+30,Male,Ontario,Full time employment,1.0,0.0,5,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+22,Male,Ontario,Other,,,1,1,1,1.0,1,1,Very badly,No confidence at all
+38,Male,Quebec / Québec,Full time employment,3.0,1.0,4,5,4,4.0,4,4,Somewhat well,A fair amount of confidence
+47,Female,Quebec / Québec,Full time employment,2.0,0.0,1,7,5,4.0,5,5,Very badly,No confidence at all
+61,Female,Ontario,Retired,2.0,0.0,4,7,5,,4,5,Somewhat well,A fair amount of confidence
+53,Female,Alberta,Part time employment,3.0,1.0,1,2,2,,4,5,Somewhat well,A fair amount of confidence
+54,Male,Ontario,Full time employment,1.0,0.0,7,7,5,5.0,5,5,Very well,A lot of confidence
+20,Male,Quebec / Québec,Full time employment,6.0,2.0,1,5,4,1.0,2,4,Somewhat badly,Not very much confidence
+21,Female,Ontario,Unemployed,4.0,0.0,1,3,5,5.0,4,5,Somewhat badly,Don't know
+78,Male,Quebec / Québec,Retired,1.0,0.0,4,3,5,4.0,4,4,Somewhat well,A fair amount of confidence
+68,Female,Ontario,Retired,1.0,0.0,7,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+31,Female,Quebec / Québec,Part time employment,1.0,0.0,1,1,4,5.0,5,5,Very badly,No confidence at all
+24,Female,Nova Scotia / Nouvelle-Écosse,Unemployed,2.0,1.0,7,5,5,5.0,5,5,Somewhat badly,No confidence at all
+30,Female,Alberta,Full time employment,1.0,0.0,1,3,5,5.0,3,4,Somewhat badly,Not very much confidence
+80,Female,British Columbia / Colombie Britanique,Retired,1.0,0.0,7,4,5,5.0,5,5,Very well,A lot of confidence
+57,Male,Saskatchewan,Unemployed,1.0,0.0,7,7,2,,5,5,Very badly,Not very much confidence
+43,Female,Quebec / Québec,Full time employment,5.0,0.0,4,2,5,4.0,5,5,Somewhat well,A fair amount of confidence
+50,Male,British Columbia / Colombie Britanique,Full time employment,2.0,2.0,7,5,5,4.0,4,5,Somewhat well,Not very much confidence
+74,Male,Ontario,Full time employment,2.0,0.0,5,2,5,4.0,4,5,Very badly,A fair amount of confidence
+75,Female,Quebec / Québec,Retired,1.0,0.0,7,2,5,,4,5,Somewhat badly,A lot of confidence
+37,Female,British Columbia / Colombie Britanique,Full time employment,3.0,0.0,5,5,5,5.0,5,5,Somewhat badly,Not very much confidence
+36,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,2,2,3,5.0,1,5,Very badly,No confidence at all
+56,Female,Nova Scotia / Nouvelle-Écosse,Not working,1.0,0.0,5,1,5,4.0,3,5,Very well,A fair amount of confidence
+67,Male,Ontario,Other,6.0,5.0,7,4,5,5.0,4,5,Somewhat badly,A fair amount of confidence
+77,Female,Quebec / Québec,Retired,2.0,0.0,2,2,5,5.0,5,5,Somewhat badly,Not very much confidence
+80,Male,Ontario,Retired,2.0,0.0,5,2,5,,3,5,Somewhat well,A fair amount of confidence
+29,Female,Quebec / Québec,Full time employment,2.0,0.0,3,3,5,5.0,5,4,Very badly,A lot of confidence
+80,Female,Ontario,Retired,1.0,0.0,4,4,5,5.0,1,5,Somewhat well,A fair amount of confidence
+60,Male,Alberta,Full time employment,1.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+78,Female,Nova Scotia / Nouvelle-Écosse,Retired,1.0,0.0,3,3,5,,5,4,Very well,A fair amount of confidence
+50,Male,Ontario,Full time employment,3.0,3.0,3,5,5,5.0,4,5,Somewhat well,A fair amount of confidence
+70,Female,Quebec / Québec,Retired,1.0,0.0,3,4,5,4.0,5,5,Very badly,Not very much confidence
+28,Female,Quebec / Québec,Part time employment,4.0,2.0,2,2,4,4.0,5,5,Somewhat badly,Not very much confidence
+62,Male,Ontario,Retired,2.0,2.0,3,7,5,5.0,5,4,Somewhat well,A fair amount of confidence
+66,Female,Ontario,Retired,3.0,0.0,7,2,5,,5,5,Somewhat well,A fair amount of confidence
+31,Female,Ontario,Full time employment,3.0,1.0,3,4,3,5.0,5,5,Somewhat badly,A fair amount of confidence
+51,Female,Ontario,Unemployed,3.0,0.0,4,1,5,,5,5,Somewhat badly,No confidence at all
+32,Female,Ontario,Full time employment,2.0,1.0,1,7,5,3.0,3,5,Very badly,No confidence at all
+24,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Not working,3.0,1.0,6,6,5,5.0,5,5,Very badly,No confidence at all
+57,Male,New Brunswick / Nouveau-Brunswick,Full time employment,2.0,2.0,1,1,1,,1,1,Somewhat well,No confidence at all
+72,Female,Ontario,Retired,2.0,1.0,4,5,5,5.0,5,5,Very well,A lot of confidence
+58,Male,Quebec / Québec,Retired,,0.0,4,4,5,5.0,4,3,Somewhat badly,Not very much confidence
+23,Female,New Brunswick / Nouveau-Brunswick,Full time employment,4.0,0.0,1,3,5,5.0,5,4,Very badly,No confidence at all
+66,Male,Prince Edward Island / Île-du-Prince-Édouard,Retired,2.0,0.0,7,7,5,5.0,5,5,Somewhat well,A lot of confidence
+58,Female,Ontario,Part time employment,2.0,0.0,5,2,5,5.0,4,5,Somewhat well,A fair amount of confidence
+33,Female,Alberta,Unemployed,4.0,4.0,3,2,5,5.0,3,5,Somewhat well,A fair amount of confidence
+64,Male,Quebec / Québec,Retired,1.0,0.0,1,1,5,4.0,5,5,Very well,A fair amount of confidence
+20,Male,Alberta,Full time employment,1.0,0.0,1,1,3,5.0,4,5,Somewhat well,A fair amount of confidence
+35,Female,Ontario,Full time employment,3.0,1.0,3,7,5,5.0,5,4,Don't know,A fair amount of confidence
+69,Female,Ontario,Retired,1.0,0.0,5,4,5,5.0,4,5,Very well,A lot of confidence
+70,Female,Ontario,Retired,1.0,0.0,7,4,5,4.0,4,5,Very well,A lot of confidence
+47,Male,Ontario,Full time employment,5.0,3.0,7,4,5,5.0,5,4,Somewhat well,A fair amount of confidence
+54,Female,Quebec / Québec,Full time employment,2.0,0.0,5,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+76,Female,Ontario,Retired,2.0,0.0,6,7,5,5.0,5,5,Somewhat well,A fair amount of confidence
+26,Male,Manitoba,Full time employment,1.0,3.0,1,7,4,5.0,3,2,Very badly,No confidence at all
+34,Male,Ontario,Full time employment,2.0,0.0,1,1,5,4.0,5,5,Very badly,No confidence at all
+21,Male,Quebec / Québec,Full time student,3.0,0.0,6,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+61,Male,Saskatchewan,Full time employment,2.0,0.0,6,2,5,5.0,4,5,Somewhat well,A lot of confidence
+68,Male,Alberta,Retired,1.0,0.0,4,2,4,4.0,4,5,Somewhat well,A lot of confidence
+37,Female,Ontario,Not working,3.0,1.0,4,4,5,5.0,5,5,Very badly,No confidence at all
+65,Female,Quebec / Québec,Retired,2.0,0.0,4,3,2,,5,5,Somewhat well,A lot of confidence
+79,Male,Ontario,Part time employment,2.0,0.0,5,4,5,4.0,4,5,Somewhat well,A lot of confidence
+31,Female,Quebec / Québec,Full time employment,3.0,3.0,2,4,5,4.0,4,4,Somewhat well,A fair amount of confidence
+66,Male,Quebec / Québec,Retired,4.0,1.0,6,7,5,3.0,5,5,Somewhat badly,A fair amount of confidence
+25,Female,Ontario,Full time student,3.0,3.0,7,7,5,,5,5,Very well,A fair amount of confidence
+75,Female,Saskatchewan,Retired,2.0,0.0,5,4,5,5.0,5,5,Very badly,Not very much confidence
+47,Male,Ontario,Full time employment,4.0,2.0,5,6,5,5.0,5,5,Very badly,No confidence at all
+19,Female,Quebec / Québec,Unemployed,4.0,2.0,5,4,5,5.0,5,4,Somewhat badly,Not very much confidence
+77,Male,Quebec / Québec,Retired,2.0,0.0,2,7,5,2.0,4,5,Very well,A lot of confidence
+24,Female,Quebec / Québec,Part time employment,4.0,2.0,7,3,5,5.0,5,5,Very well,A lot of confidence
+64,Female,Quebec / Québec,Retired,2.0,0.0,5,4,5,4.0,5,5,Somewhat well,A fair amount of confidence
+48,Female,Alberta,Other,3.0,0.0,5,2,5,,5,5,Somewhat badly,A fair amount of confidence
+51,Male,Nova Scotia / Nouvelle-Écosse,Full time employment,3.0,0.0,4,4,4,,4,4,Somewhat well,A fair amount of confidence
+69,Male,Ontario,Retired,3.0,1.0,5,3,5,5.0,5,5,Very well,A lot of confidence
+50,Male,Ontario,Not working,2.0,0.0,5,2,5,4.0,4,3,Somewhat well,A fair amount of confidence
+56,Female,British Columbia / Colombie Britanique,Retired,3.0,0.0,3,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+75,Male,Ontario,Retired,2.0,0.0,6,3,5,4.0,3,5,Somewhat well,A fair amount of confidence
+76,Male,Quebec / Québec,Retired,2.0,0.0,1,6,5,5.0,5,4,Very well,A lot of confidence
+74,Male,Quebec / Québec,Retired,2.0,2.0,7,5,4,5.0,5,5,Somewhat badly,Not very much confidence
+35,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Not working,4.0,2.0,5,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+34,Female,Ontario,Full time employment,3.0,1.0,4,4,5,,5,5,Somewhat well,A fair amount of confidence
+59,Female,Alberta,Full time employment,1.0,0.0,5,6,5,5.0,3,5,Very badly,No confidence at all
+19,Male,Ontario,Full time student,3.0,0.0,1,7,3,5.0,4,4,Very badly,Not very much confidence
+54,Male,Saskatchewan,Full time employment,1.0,0.0,7,7,5,5.0,3,5,Somewhat well,A fair amount of confidence
+22,Female,Alberta,Full time student,4.0,0.0,1,1,5,5.0,5,1,Somewhat well,A fair amount of confidence
+20,Female,Ontario,Part time employment,1.0,0.0,4,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+34,Male,Alberta,Full time employment,1.0,0.0,5,4,4,4.0,4,4,Somewhat well,Not very much confidence
+74,Male,Quebec / Québec,Retired,2.0,0.0,1,2,4,5.0,5,3,Very badly,No confidence at all
+61,Female,Ontario,Full time employment,2.0,0.0,7,6,5,5.0,5,1,Very badly,Not very much confidence
+48,Female,New Brunswick / Nouveau-Brunswick,Not working,7.0,4.0,5,6,5,,5,5,Somewhat badly,Not very much confidence
+84,Male,Quebec / Québec,Retired,2.0,0.0,1,1,5,5.0,5,5,Very well,A lot of confidence
+49,Male,Manitoba,Unemployed,7.0,5.0,3,4,5,4.0,5,2,Somewhat well,Not very much confidence
+21,Male,British Columbia / Colombie Britanique,Other,,,1,1,1,1.0,1,1,Don't know,Don't know
+61,Female,British Columbia / Colombie Britanique,Not working,2.0,0.0,5,4,1,5.0,5,5,Somewhat well,A fair amount of confidence
+47,Female,Saskatchewan,Part time employment,1.0,0.0,5,2,4,5.0,5,4,Very badly,Not very much confidence
+38,Male,Ontario,Full time employment,4.0,2.0,3,6,3,,1,5,Somewhat well,A fair amount of confidence
+56,Female,New Brunswick / Nouveau-Brunswick,Not working,2.0,0.0,4,4,5,,4,4,Somewhat well,A fair amount of confidence
+20,Female,Nova Scotia / Nouvelle-Écosse,Other,2.0,,4,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+74,Female,Ontario,Retired,7.0,4.0,7,4,5,5.0,5,5,Very badly,A fair amount of confidence
+59,Female,Ontario,Not working,3.0,0.0,7,2,5,4.0,4,5,Somewhat badly,Not very much confidence
+63,Female,Quebec / Québec,Retired,2.0,0.0,2,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+64,Female,Alberta,Part time employment,2.0,0.0,1,5,1,3.0,1,3,Somewhat badly,Not very much confidence
+71,Male,Quebec / Québec,Retired,2.0,2.0,5,2,4,4.0,5,5,Somewhat well,A fair amount of confidence
+67,Male,Ontario,Retired,2.0,0.0,2,2,5,,5,5,Somewhat well,A fair amount of confidence
+18,Female,Quebec / Québec,Full time student,4.0,0.0,2,5,4,5.0,5,4,Somewhat well,Not very much confidence
+51,Female,New Brunswick / Nouveau-Brunswick,Part time employment,2.0,0.0,5,4,5,5.0,5,5,Somewhat badly,Not very much confidence
+32,Male,Nunavut,Unemployed,,2.0,4,3,4,4.0,3,4,Somewhat well,Not very much confidence
+64,Female,Newfoundland & Labrador / Terre-Neuve-et-Labrador,Retired,2.0,0.0,7,1,5,,5,5,Very well,A lot of confidence
+62,Male,Manitoba,Retired,2.0,0.0,6,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+39,Male,Saskatchewan,Full time employment,2.0,0.0,1,1,1,1.0,1,1,Very badly,No confidence at all
+43,Male,Ontario,Full time employment,4.0,4.0,4,7,4,,5,3,Somewhat well,A lot of confidence
+28,Female,Ontario,Other,,,4,4,5,5.0,5,5,Don't know,Don't know
+18,Female,Manitoba,Full time student,5.0,1.0,5,5,3,3.0,3,3,Somewhat badly,Not very much confidence
+66,Female,Manitoba,Retired,1.0,0.0,3,3,5,5.0,5,5,Very well,A lot of confidence
+28,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,2,2,5,5.0,5,5,Very badly,No confidence at all
+42,Female,Quebec / Québec,Full time employment,2.0,0.0,3,6,5,5.0,4,5,Somewhat badly,Not very much confidence
+49,Female,Quebec / Québec,Retired,2.0,0.0,3,2,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+21,Male,British Columbia / Colombie Britanique,Full time employment,4.0,2.0,4,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+68,Female,Ontario,Retired,1.0,0.0,7,3,5,5.0,5,5,Very well,A lot of confidence
+78,Female,Alberta,Retired,1.0,1.0,6,5,4,5.0,5,5,Somewhat badly,Not very much confidence
+21,Female,British Columbia / Colombie Britanique,Other,5.0,4.0,3,4,5,4.0,4,3,Somewhat badly,Not very much confidence
+35,Male,Ontario,Unemployed,1.0,0.0,2,1,5,5.0,5,5,Very well,A lot of confidence
+76,Male,Ontario,Retired,2.0,0.0,3,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+47,Female,Alberta,Part time employment,,,7,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+76,Male,Quebec / Québec,Retired,2.0,0.0,7,1,5,5.0,1,5,Somewhat badly,A lot of confidence
+72,Male,Alberta,Retired,3.0,0.0,5,1,5,,5,5,Somewhat badly,Not very much confidence
+31,Female,Ontario,Part time employment,5.0,3.0,3,4,5,4.0,4,4,Very badly,No confidence at all
+25,Male,British Columbia / Colombie Britanique,Full time student,,,2,7,5,5.0,4,4,Very well,A lot of confidence
+53,Female,Quebec / Québec,Full time employment,1.0,0.0,4,7,5,5.0,4,5,Somewhat well,A lot of confidence
+52,Male,Ontario,Not working,2.0,0.0,2,2,1,4.0,4,5,Very badly,Not very much confidence
+35,Female,British Columbia / Colombie Britanique,Full time employment,2.0,0.0,3,4,4,,4,5,Somewhat badly,Don't know
+73,Male,Quebec / Québec,Retired,3.0,0.0,4,4,1,4.0,4,4,Somewhat badly,Not very much confidence
+55,Female,Alberta,Other,1.0,0.0,7,1,5,5.0,5,5,Very badly,No confidence at all
+35,Male,Ontario,Full time employment,5.0,3.0,5,7,5,4.0,5,5,Very badly,No confidence at all
+67,Male,Quebec / Québec,Retired,2.0,0.0,6,6,5,5.0,5,5,Very badly,A lot of confidence
+19,Male,Ontario,Not working,,2.0,6,2,5,5.0,4,5,Somewhat well,Not very much confidence
+33,Female,Ontario,Unemployed,3.0,1.0,5,5,5,4.0,2,5,Somewhat badly,Not very much confidence
+34,Male,Ontario,Full time employment,1.0,0.0,5,4,4,,3,5,Somewhat badly,Not very much confidence
+50,Female,Saskatchewan,Not working,1.0,0.0,2,7,3,,5,5,Very badly,No confidence at all
+48,Male,Ontario,Part time employment,3.0,3.0,4,5,5,,4,5,Somewhat badly,Not very much confidence
+79,Male,Alberta,Retired,2.0,0.0,6,4,5,5.0,5,5,Somewhat well,A fair amount of confidence
+32,Male,Manitoba,Full time employment,3.0,2.0,2,2,4,,4,4,Very well,A fair amount of confidence
+18,Male,Ontario,Part time employment,7.0,0.0,6,3,5,5.0,4,5,Somewhat well,A fair amount of confidence
+61,Male,Ontario,Retired,1.0,0.0,7,1,5,3.0,3,5,Very badly,No confidence at all
+71,Female,Quebec / Québec,Retired,1.0,0.0,7,5,5,5.0,5,5,Very well,A lot of confidence
+36,Male,Ontario,Full time employment,2.0,0.0,2,1,5,3.0,3,5,Very badly,No confidence at all
+71,Female,Quebec / Québec,Retired,2.0,0.0,1,2,1,3.0,1,1,Somewhat badly,Not very much confidence
+73,Male,Ontario,Retired,1.0,0.0,4,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+69,Female,Manitoba,Part time employment,1.0,0.0,5,5,4,4.0,4,5,Somewhat badly,Not very much confidence
+45,Male,Saskatchewan,Full time employment,2.0,0.0,1,1,1,5.0,5,5,Very well,A lot of confidence
+51,Male,Ontario,Full time employment,3.0,1.0,6,3,5,,5,4,Very well,A fair amount of confidence
+59,Male,Quebec / Québec,Part time employment,2.0,0.0,5,3,5,5.0,5,5,Very badly,Don't know
+58,Female,British Columbia / Colombie Britanique,Full time employment,1.0,0.0,5,6,5,5.0,5,5,Somewhat well,A fair amount of confidence
+48,Female,Quebec / Québec,Full time employment,2.0,1.0,3,3,5,5.0,5,4,Somewhat well,A fair amount of confidence
+59,Female,Quebec / Québec,Retired,2.0,0.0,4,4,4,4.0,4,5,Somewhat well,A fair amount of confidence
+65,Male,Ontario,Retired,2.0,0.0,2,2,5,4.0,4,5,Very well,A fair amount of confidence
+84,Male,Ontario,Retired,2.0,0.0,7,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+24,Male,Ontario,Full time employment,1.0,0.0,5,3,5,4.0,2,2,Somewhat badly,No confidence at all
+73,Male,Quebec / Québec,Retired,2.0,0.0,6,1,5,5.0,4,5,Very well,A lot of confidence
+38,Male,Quebec / Québec,Full time employment,1.0,0.0,3,7,5,,5,5,Somewhat well,A lot of confidence
+59,Male,Quebec / Québec,Retired,1.0,0.0,2,6,5,5.0,4,5,Very badly,No confidence at all
+58,Male,Quebec / Québec,Retired,1.0,0.0,4,4,5,5.0,5,2,Somewhat well,A fair amount of confidence
+78,Male,Alberta,Part time employment,2.0,0.0,4,3,2,,4,5,Somewhat badly,Not very much confidence
+38,Female,Quebec / Québec,Unemployed,2.0,1.0,1,4,5,,5,5,Somewhat well,Don't know
+67,Female,Quebec / Québec,Retired,1.0,0.0,3,1,5,4.0,4,5,Somewhat badly,A fair amount of confidence
+20,Male,Ontario,Part time employment,4.0,0.0,1,3,5,3.0,3,3,Somewhat badly,A fair amount of confidence
+44,Male,Saskatchewan,Part time employment,2.0,0.0,1,4,2,,4,1,Somewhat well,A fair amount of confidence
+54,Male,Ontario,Other,1.0,0.0,1,1,5,5.0,5,3,Somewhat well,A fair amount of confidence
+20,Male,Alberta,Unemployed,2.0,0.0,6,2,5,5.0,5,5,Somewhat well,A lot of confidence
+56,Female,Ontario,Part time employment,2.0,0.0,7,3,5,5.0,2,5,Very well,A lot of confidence
+47,Male,Ontario,Retired,6.0,0.0,4,5,5,5.0,5,5,Somewhat well,A fair amount of confidence
+53,Female,Quebec / Québec,Full time employment,1.0,0.0,3,2,1,4.0,3,1,Very well,A fair amount of confidence
+64,Female,Quebec / Québec,Retired,2.0,0.0,6,2,5,5.0,5,5,Somewhat well,A fair amount of confidence
+68,Female,Quebec / Québec,Retired,1.0,0.0,5,3,5,5.0,5,5,Somewhat well,A fair amount of confidence
+54,Female,Quebec / Québec,Full time employment,2.0,0.0,3,2,5,5.0,5,5,Very well,A lot of confidence
+42,Female,Ontario,Full time employment,,,4,5,5,,5,1,Somewhat badly,Don't know
+78,Male,Quebec / Québec,Retired,2.0,0.0,5,4,5,3.0,5,5,Somewhat badly,Not very much confidence
+73,Male,Quebec / Québec,Retired,2.0,2.0,5,2,4,5.0,5,5,Very well,A lot of confidence
+74,Female,Ontario,Retired,7.0,4.0,6,3,5,5.0,5,5,Very badly,A fair amount of confidence
+44,Female,Alberta,Part time employment,3.0,1.0,1,5,5,5.0,2,4,Very badly,Not very much confidence
+22,Female,British Columbia / Colombie Britanique,Part time employment,2.0,0.0,5,4,5,4.0,5,5,Somewhat badly,Not very much confidence
+61,Female,Ontario,Unemployed,2.0,0.0,4,4,5,5.0,3,5,Somewhat well,A fair amount of confidence
+49,Female,British Columbia / Colombie Britanique,Unemployed,2.0,1.0,1,1,5,5.0,5,5,Somewhat well,A fair amount of confidence
+67,Female,Quebec / Québec,Retired,2.0,0.0,6,2,5,4.0,4,5,Somewhat well,A fair amount of confidence
