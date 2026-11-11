@@ -1,0 +1,38 @@
+{
+    "compact_8": [
+        "healthcare_system_confidence",
+        "government_covid_response",
+        "i11_health",
+        "perceived_covid_severity",
+        "age",
+        "avoiding_infected_people",
+        "hand_sanitizer_frequency",
+        "i12_health_13"
+    ],
+    "recommended_10": [
+        "healthcare_system_confidence",
+        "government_covid_response",
+        "i11_health",
+        "perceived_covid_severity",
+        "age",
+        "avoiding_infected_people",
+        "hand_sanitizer_frequency",
+        "i12_health_13",
+        "i12_health_22",
+        "i12_health_25"
+    ],
+    "expanded_12": [
+        "healthcare_system_confidence",
+        "government_covid_response",
+        "i11_health",
+        "perceived_covid_severity",
+        "age",
+        "avoiding_infected_people",
+        "hand_sanitizer_frequency",
+        "i12_health_13",
+        "i12_health_22",
+        "i12_health_25",
+        "perceived_infection_risk",
+        "employment_status"
+    ]
+}
